@@ -1,0 +1,2402 @@
+[
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ebed50c1aa2c33a8b099749bbf21bd1c0d699fd1",
+        "info": "!3299 README格式调整\nMerge pull request !3299 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1a8b268654fd53275eb109fc734252ede2d3a0b4",
+        "info": "README格式调整\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/57765fee26453adfecf79321cb0738ccf6f35bff",
+        "info": "!3287  fix function sha2 parameter unmatch for upgrade\nMerge pull request !3287 from zhengxue/master_dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1e4ac506d55eecf2cc93d16d2c670c4a01bd19df",
+        "info": "!3262 修复view definer在权限相关的一些bug\nMerge pull request !3262 from Cross-罗/definer_bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/737f6a271420f75974a9778a8e33866f7e4f0d3c",
+        "info": "!3294 dblink完善异常场景安全性\nMerge pull request !3294 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4619e39e5cc9cab14407861e682be5911cc92542",
+        "info": "!3264 修复opfusion更新带checkoption视图时对象未关闭和校验失效的问题\nMerge pull request !3264 from chenxiaobin/fixReferNotClose"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/60551825665347144f6ad1d8a1f3b0281308fb47",
+        "info": "!3276 issue修复：dolphin插件下B兼容数据库分区表gs_dump失败修复\nMerge pull request !3276 from zhangzhixian/pg_dump_fix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/113163f4bb27aaace29354b284a616ff8c90f1db",
+        "info": "dblink增加异常场景安全性\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5c0498398e9bd29dcefc844791f1bb964c8bee11",
+        "info": "!3279 修复无权限用户修改发布订阅名时报错信息错误的问题\nMerge pull request !3279 from chenxiaobin/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/68d6357e54b8e1c5a7765ebfe833f4742c53a7d5",
+        "info": "fix function sha2 parameter unmatch for upgrade\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/de3bfd285de53867687defd4f40edc4ff0c460a7",
+        "info": "修复opfusion更新带checkoption视图时对象未关闭和校验失效的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a38a82270c47143eef33845da9e7179966269495",
+        "info": "!3273 修改build_opengauss.sh文件中的拼写错误\nMerge pull request !3273 from liuheng/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a8314362b11685877cdcd6ddd3bd7f59015ccedb",
+        "info": "!3277 【资源池化】5.0.0分支同步到master分支\nMerge pull request !3277 from 董宁/sync"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/39a0ad68b58bb2b934c749b647eedcd17df47cd6",
+        "info": "【资源池化】5.0.0 回合master更新commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/217b1e334d2d428a309813a985d33586caa54ba1",
+        "info": "dolphin插件下B兼容模式数据库分区表导出失败问题修复\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/74aa0ff0ba7009f79be61ab1ed3e292df1b905de",
+        "info": "【资源池化】5.0.0修改补充到master\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4b86a0d169e1cbbb57d79706fe41185c5132c98e",
+        "info": "修复无权限用户修改发布订阅名时报错信息错误的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4c93dd91f0c8f3f6fd4ba5d4cb06deef026a1c56",
+        "info": "distinguish cmagent backend from noraml backend for dms\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/490edec3ee5f58d531d574cd2587f7d2a1b2cab5",
+        "info": "修复回放过程中遇到read mode是zero and lock导致的反复上锁\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/65cb922a07b2a69972ef29cba1567374ba0c7825",
+        "info": "修复aio-in_process可能存在提前判断导致判断失效的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ccb6e22ada49665ef6b1368bf5f6c042dffe12a8",
+        "info": "0315 DB side fix: release ack msg recv failed\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b4cc5559c8d32aee01f5f623f865adb6b95d368a",
+        "info": "return success if local buffer is not valid when handle invalidate req\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e1d7f6029b4fbaac3e6afc522167ac4c15205960",
+        "info": "add sleep time to avoid LWLock starvation for buffer content lock\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/63413fa3332786f88f98d38c249d181fa45ac4c8",
+        "info": "修复aio inprocess未完成时淘汰页面,导致磁盘上页面异常\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/610a1ac1683b56648c12a12c3cf014a73178614f",
+        "info": "修复failover后clearsegcache和创建插入segcache并发导致的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/702a434fbf79c135b9576da74fbdfacd42876d13",
+        "info": "【共享存储】add lock check mechanism\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/13cbea4c78eb15dad5774972b3d5a137cd9e3717",
+        "info": "修复共享存储下极致RTO回放coredump的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1408a19b7912fcd324bfa7028073d1e6bb865bad",
+        "info": "解决共享存储升级 系统表重建报错问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b3827665cdb8280824aa3b3e446700e3bc1204be",
+        "info": "standardize in_flushcopy usage\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d03f486c24fdb58559a3b49bdc028b78d5acb258",
+        "info": "禁用dw\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8b71e0af26e676c863eba0b14105ee616524c487",
+        "info": "修复BM_IO_ERROR时走磁盘要到错误页面的情况\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/56580b9e037323e7e7d6c4c7ab2cdaab58acce64",
+        "info": "修复备机在readbuffer->seg_read->lock seg head buffer卡住后主机reform卡的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/247d5fe6251c781e573204ea6cc62a21b4cbdc3d",
+        "info": "Revert \"修复备机在readbuffer->seg_read->lock seg head buffer卡住后主机reform卡的问题\"\n\nThis reverts commit 2b6568151febf242c63a7fcfbf3a1a41d318c33d.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1e6bc62bf948591d29e132288c1a2844e2d28a4e",
+        "info": "!3246 修复打开plsql_show_all_error后coredump的问题\nMerge pull request !3246 from chenxiaobin/fixPlsqlShow"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a1e5242944c02b967186103b76acbd55d09cef76",
+        "info": "!3259 【cherry-pick】【资源池化】【5.0回合master】5.0回合master, 回合7个资源池化的MR\nMerge pull request !3259 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e8cc29aa75027f16c9b059f17c1247ebdab45be7",
+        "info": "修改build_opengauss.sh文件中的拼写错误\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c0afe53b149cd6ffd8e6e7f37fc15d130523fa7d",
+        "info": "!3266 字符集问题修改回合\nMerge pull request !3266 from suncan/fix_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/99b43d3d69471b772f9dcc31323879563bb5173f",
+        "info": "!3261 修复hash info的heap-use-after-free问题\nMerge pull request !3261 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/900a2b71fbd71e473805423cc0bd5a6e4a312358",
+        "info": "!3265 修复single_node_sqlbypass用例不稳定的问题\nMerge pull request !3265 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7cb04e270f1baf34dc68ebafa595931c1ee5026b",
+        "info": "!3267 MOT non-unique secondary index recovery fix\nMerge pull request !3267 from Vinoth Veeraraghavan/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b13738691a4625186fc0d4ef372efae4eca18956",
+        "info": "Non-unique secondary index recovery and minor code review fix\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/58e3104b186763e0af4466225b3fa1ac4a6a6725",
+        "info": "!3258 修复B兼容性下codegen+列存表获取char类型长度错误的问题\nMerge pull request !3258 from chenxiaobin/fixCodeGenChar"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f29279591c95bb36b94902388757cbf75194413e",
+        "info": "字符集问题回合\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f7b7e0c68ea58d2f73a4b15817f00999064c6731",
+        "info": "view definer bugfix\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/db7a7daddd333591eeb7ffeda1b4ccaec6c56229",
+        "info": "!3249 修复cost_model用例概率性失败的问题\nMerge pull request !3249 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/132b18a7da7a5b40990530286c78bc25bb989776",
+        "info": "!3263 dblink问题修改5.0回合master\nMerge pull request !3263 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/53cc6027d10597c9baf31b24e1c76840b13778ff",
+        "info": "Fix fastcheck unstable.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/376f4288cdf7e35377b37a1dd517cfe009882aa3",
+        "info": "dblink问题修改5.0回合master\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/223b1d8f9bbcb1608a223cf74fabfbd5f475fdce",
+        "info": "Fix heap-use-after-free.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2b6568151febf242c63a7fcfbf3a1a41d318c33d",
+        "info": "修复备机在readbuffer->seg_read->lock seg head buffer卡住后主机reform卡的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/611c25f40db5787231297f7aae5c3619e595127a",
+        "info": "修复B兼容性下codegen+列存表获取char类型长度错误的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ce357b14c9afc2334a352b9c37229306fd07ba8f",
+        "info": "!3211 修复一处plan hint词法分析导致的死循环\nMerge pull request !3211 from ljy/fix_plan_hit"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/eacdbe78535882fe262b8f148f3db870b6931e0f",
+        "info": "Fix cost_model fastcheck.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f7cb31e471fb335440b6416643042e01540e00e6",
+        "info": "!3219 【bugfixed】解决增量物化视图存在匿名类型时，无法级联删除表的问题\nMerge pull request !3219 from laishenghao/imv"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/738ee0d9547aced14e3d79ea9ddfb04f7c783131",
+        "info": "修复打开plsql_show_all_error后coredump的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c3df8a1ccfe65f63bf5d3568f9e6ffa7ce59c9ef",
+        "info": "!3243 分区键表达式性能优化\nMerge pull request !3243 from 王修强/cherry-pick-1679466981"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5716d65c530efe5a8b6c36b9470f16cbb9aad92c",
+        "info": "!3167 解决分区键为表达式，功能正常，但 \\d 查看表显示错误的问题\nMerge pull request !3167 from 王修强/partition_gsql_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/06ff8a60a1b278e344871da8df3f0a730886299c",
+        "info": "!3173 修改guc参数test_user_host名字为b_compatibility_user_host_auth\nMerge pull request !3173 from 王修强/modify_test_user_host"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/280d9a599de6711a3d3141880300b333b34e0c33",
+        "info": "fixed 1f478c5 from https://gitee.com/xiu-qiang-wang-2022/openGauss-server/pulls/3235\n分区键表达式性能优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f0934bc2adc077c667213c8bd12b1816ea5dbf9d",
+        "info": "!3214 修复SRF内存问题、去除新表达式框架列名信息\nMerge pull request !3214 from wuchenglin/perf_srf-and-expr"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f9558f55a82363e34bbe2b7271f1f7ea07b1a301",
+        "info": "!3221 修复sp_masking_udf报错\nMerge pull request !3221 from 姚军/dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7645c64333f1a298206bb04238063b372687bc8f",
+        "info": "!3220 修复gs_ctl restore命令行注入的问题\nMerge pull request !3220 from 杨浩/new_master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ce27b9fe35212c73979a145806adb98376cc2035",
+        "info": "!3194 解决列存alter table add column回滚的core问题\nMerge pull request !3194 from 杨浩/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b50e14f2eef31c3e4c27586257e3ffe7bdd78f10",
+        "info": "!3216 轻量版增加极致RTO参数校验\nMerge pull request !3216 from 杨浩/rec_master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4934dec149582708a893d6817132f0203817d27c",
+        "info": "!3213 修复：doplhin插件加载后的dump mysql格式的存储过程、函数、触发器。问题\nMerge pull request !3213 from chenbd/fix_dump_func"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5cda31fd7aa9b1c1adcdd9b294be031b4d6f8e4a",
+        "info": "!3199 declare continue handler的block中包含if语句缺陷\nMerge pull request !3199 from 暖阳/continue_if"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f0772e6ba77a2b5eaf49bd2138e627066bd92439",
+        "info": "!3180 重构@变量查询赋值功能，支持列数据输入，修复问题\nMerge pull request !3180 from chenbd/fix_var_bugs"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8b2fc1f4aa7c8956946e81c7e9f0805e2cb3a132",
+        "info": "修复dump dophin插件加载后的trigger 和 func,proc的导出数据可导入\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c3a93df89666a8bd3f48035b4bce0eedf765e185",
+        "info": "重构@变量查询赋值功能，支持列数据输入，修复问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/006c25903adb35a79975e0a54a94901f662a0410",
+        "info": "解决分区键为表达式，功能正常，但 \\d 查看表显示错误的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/64734f75c00d73417223223dea0331421bf5e2c8",
+        "info": "Added the function of verifying the recovery_redo_workers parameter\n\nMatch-id-afa9095e1443afcaf16aece152e86ae65d1b1607\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5b839e5d1e20cc6d67e5ae9b07c6d05eefcd93e1",
+        "info": "解决增量物化视图存在匿名类型时，无法级联删除表格的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cc4e14ef9a9fa98962649018ec68ec706cd378aa",
+        "info": "declare continue handler if then error\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/67c3a334bdbd59a2953b4fe155c2f1dd57085147",
+        "info": "修复sp_masking_udf用例结果不匹配\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/eecfc13154929673d1ae30fdebfad5ea15e42b39",
+        "info": "!3157 解决兼容性b库下，对于二级分区表分区键为year函数时，在进行add partition操作后，使用pg_get_tabledef会报未知错误\nMerge pull request !3157 from 王修强/partition_bug_partexprstr"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/96c639970b608029cb12017a30adf31b60db883e",
+        "info": "!3205 【5.0.0回合master】修复重复索引问题\nMerge pull request !3205 from Cross-罗/test_master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/812b10294312b7fe9efe561f75105e89e3063ab3",
+        "info": "!3195 修复2.0.0以后oid2name无法查询物化视图的问题\nMerge pull request !3195 from yuchao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/318d4676e85315bb1be3bac4de009af54b03759c",
+        "info": "!3185 修复：help问题，force 和 create table as语法\nMerge pull request !3185 from chenbd/fix_help"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ef6ad6d869abb1072f79959aeccb1a17d8fae1d6",
+        "info": "fix fastcheck case\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/369d49cde15834267a5236e1a8b954d8817eaef8",
+        "info": "!3148 declare handler 执行代码块为空缺陷\nMerge pull request !3148 from 暖阳/handler_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/70d9604a2110d4ecafcba4209f5aaf618935a852",
+        "info": "!2823 解决非线程池模式下，pl_debugger导致数据库无法停库的问题。\nMerge pull request !2823 from playrest/master-commit-3"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ef67d5d75d81ef84731db8621721f1c4acb12bf8",
+        "info": "perf new expr\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3ef3d851c833f6c23b8ababec87b3228597f4ee0",
+        "info": "fix memory usage in SRF\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9bb709750805bd76d6f734ec44f2d24cf635fd96",
+        "info": "修复一处plan hint词法导致的死循环，读到EOF时应退出循环\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3ba8f21d008ecd303802c900ae2d45790d8f5ea8",
+        "info": "!3174 修复缺陷I6FG7Q:alter table 提示could not find cast from 3904 to 3831\nMerge pull request !3174 from Hemny/bug-I6FG7Q"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a56ad00705e31af77e2d906520d07d1d4d6f5957",
+        "info": "!3175 AGG优化--表达式展平step减少\nMerge pull request !3175 from cailei/agg_step_0316"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/566d120bfc2d5171cba5c598146bdb7f9d8a5210",
+        "info": "!3202 fix insert_right_ref && code clean\nMerge pull request !3202 from 龚相华/clean_code_0315"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0a30bcd9c979719c60e1846cb52a27af766b9c8a",
+        "info": "!2927 修复缺陷I6G3BV：gs_verify_data_file()在备机误报存在数据损坏文件\nMerge pull request !2927 from Hemny/issue-I6G3BV"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0016940e4975e64627e70130c3d4ef9c8222f4d9",
+        "info": "1.解决非线程池模式下，pl_debugger导致数据库无法停库的问题。\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6dd5558651462dc1e650e1232d2fe67e97573b20",
+        "info": "!2874 autovacuum launcher线程开始时重置queryMemInChunks相关变量\nMerge pull request !2874 from CCA/fixbug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/054272b17088ab325aab1b224d4b4a9e280ca157",
+        "info": "code clean\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a1ccda143111b3eea42c683bfd67773a9c55f2ef",
+        "info": "fix gs_ctl restore cmd injection\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0f71ab5f74a6be73155ca2265bab07cd34e0721d",
+        "info": "重复索引回合Master\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6e7f10af14c76b3dd7fc595844af47e4511f9390",
+        "info": "unlink col cache\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/de94920bea1a96eea22b1bb4e0ca42311d307baf",
+        "info": "!3129 逻辑解码增加include-originid选项\nMerge pull request !3129 from chenxiaobin/include_originid"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ed862211031a0e3de905b7f815d9170b24c81260",
+        "info": "declare handler return error\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/97a982450c3ab0d19bf2d1ef573da93d67b97457",
+        "info": "修改guc参数test_user_host名字为b_compatibility_user_host_auth\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1cf8defb465adc13a22b7ff3500f92a1c08a6f58",
+        "info": "修复2.0.0以后oid2name无法查询物化视图的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e6e79d9da0a25fc14063788df919d34668c424b1",
+        "info": "!3178 修复replace同时插入多行的报错问题\nMerge pull request !3178 from zong/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b8cf7459a60f5547c83b8cbfb07c8b6c83ee6343",
+        "info": "add include-originid option for logical decode\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6b7edcf4f3dd9f2cf322ba587fb54be1aa66cd3c",
+        "info": "!3169 applyworker和stream线程需要加载插件\nMerge pull request !3169 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c6dcadd6b9134985c2ef5053092cb7132088c957",
+        "info": "fix help\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/22d99f6b10d4b0ad388b218f884f3e34087cc268",
+        "info": "!3176 修复发布订阅rename冲突时错误打印的问题\nMerge pull request !3176 from chenxiaobin/fixRenamePubSub"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/aaa680c37905634014c0af1793aa23ca494d9da6",
+        "info": "fix the problem of replace multi lines\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e517d95b6e489905ac502f6a776edf1ad7699ccd",
+        "info": "fix subscription and publication rename error message bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/35b92aea89b13edd2036190068fb4f67c9cbb44f",
+        "info": "agg expr step reduce\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/80eb8cd77c89138c6f6587ee58bfa74ab1d1509b",
+        "info": "修复缺陷I6FG7Q:alter table 提示could not find cast from 3904 to 3831\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9402247a0f650095e6334953ea0c43148e61d6c5",
+        "info": "!3079 修复copy to、copy from提示错误\nMerge pull request !3079 from kenxx/ken_eventtrigger_submit"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6f889ce80cb86d76b385055c920abd6a841e18ae",
+        "info": "Load dolphin for stream worker and apply worker.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/528ded6135ce7b02d2900bd9a36033b937bb4789",
+        "info": "!3132 断开会话时断开所有dblink连接\nMerge pull request !3132 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/176c185b26423d2e6a08fc24b741d953fe3a832d",
+        "info": "!3161 【轻量级 PR】：gs_clean工具也需要加载dolphin插件\nMerge pull request !3161 from pengjiong/N/A"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f836ac41654e632fed78517ec26bf708f5027cf5",
+        "info": "!3164 【sync】同步 PR 3151 的代码到master分支\nMerge pull request !3164 from laishenghao/cherry-pick-1678950672"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3322782fe611fd8fbc2dec12f7ea2d386a52ff5d",
+        "info": "dblink完善\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dd459f4c046e00e83ce46b13a67b2bdcd846fda4",
+        "info": "!3123 解决兼容性B库下，alter user password不支持'user'@'host'的问题\nMerge pull request !3123 from 王修强/user_host_bug_1"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a815e1fed50b71905db2b2f82473c0855348f1ab",
+        "info": "fixed c385b14 from https://gitee.com/dodders/openGauss-server/pulls/3151\n增加正则匹配支持多字节字符的功能\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/10ca9e35bab0fc93f4fbd737a3909429c9358c71",
+        "info": "修复缺陷I6G3BV：gs_verify_data_file()在备机误报存在数据损坏文件\n\nSigned-off-by: Hemny <hemny@qq.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3d3de895c6e8f7d3da6e70d5eedbc44f508dcb3a",
+        "info": "!3125 AGG共享转移状态\nMerge pull request !3125 from hyperstol/master_agg_2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d9a08ebdf1f1d90d91ca01d996446669d017b1e9",
+        "info": "修复缺陷I6G3BV：gs_verify_data_file()在备机误报存在数据损坏文件\n共享存储模式下，需要校验unlogged表文件是否存在。\n\nSigned-off-by: Hemny <hemny@qq.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7ef87f681ae4c28e5aa5e62cd1e793c44596010d",
+        "info": "!3098 字符集适配，新增utf8 3种字符序\nMerge pull request !3098 from suncan/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7aae683499d7173d37a054761691f9ea260541e5",
+        "info": "!3149 [bugfix] 修复在启动阶段内存不足时,elog打印函数内部core的问题（5.0.0回合master)\nMerge pull request !3149 from 周斌/elog_master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/96a66aa5d5a786e91504a36908aa0d4a2768880b",
+        "info": "gs_clean should load plugin\n\nSigned-off-by: pengjiong <totaj@qq.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2b371e3677ae9a0d86de077bc9b9789d26e599c6",
+        "info": "!3139 支持dolphin插件定制化bpchar输出\nMerge pull request !3139 from chenxiaobin/addPad"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1d985f62eb162c833186cc00d0cb70e5bc630229",
+        "info": "!3146 [bugfix] 解决开启thread_pool之后standywrite模块异常的问题(5.0.0回合master)\nMerge pull request !3146 from 周斌/master_libpqsw_thdpool"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b0b9e59d481bc06d23575a72b908583b8ed10262",
+        "info": "add addition process when u_sess is null in elog\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d0b229ec131b1e78d438f32114b71eaa79474d00",
+        "info": "解决兼容性b库下，对于二级分区表分区键为year函数时，在进行add partition操作后，使用pg_get_tabledef会报未知错误\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ce2850d3736f81a497bc26270ad748cb45269707",
+        "info": "字符集、字符序适配\n新增utf8_general_ci、utf8_unicode_ci、utf8_bin 适配\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/56ba8483aa5ec326f37e35820de57c436fcaacf2",
+        "info": "!3060 pg_probackup中current_time计算逻辑修改\nMerge pull request !3060 from tsthght/feature/change_current_time"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ae7631a4ab85b2ff2eae14d5997ac081a11d0f45",
+        "info": "AGG\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/38e33864039a1d7c02dc82397f2c4a982809ab46",
+        "info": "支持dolphin插件定制化bpchar输出\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a5515ac2035cec96788c904900b1f53fa9dc5f50",
+        "info": "修复缺陷I6G3BV：gs_verify_data_file()在备机误报存在数据损坏文件\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5400b30532496ea2200882a00b2fa0673446d972",
+        "info": "!3113 通信优化参数调整\nMerge pull request !3113 from 刘宝珠/comm"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4df45c74a50cc017a814df7da860ca956cd17091",
+        "info": "repair no support thread pool in libpqsw\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b65904f12e074f86725e76b5462211000ccceed3",
+        "info": "!3140 将工具中a opengauss改为 an opengauss\nMerge pull request !3140 from liuheng/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1c48778354b8c20f16e0de7cea99f83c74be4a01",
+        "info": "!3136 修复docker启动失败的问题\nMerge pull request !3136 from zhangxubo/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/02bc0cade8a30ce370944f3d7453c771df29b737",
+        "info": "将工具中a opengauss改为 an opengauss\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fbddf098ced63876f6b43c9f6c5571e320c531da",
+        "info": "!2850 支持connectby 基表为cte的时候使用siblings子句\nMerge pull request !2850 from 侯宗田/connectby_cte"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b4abb82fc5e7693109220c5b04d83782baecf85b",
+        "info": "修复docker几个问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4a6a5779daabbd47ed3ed68d5de964c95df19b0c",
+        "info": "!3131 优化函数表达式中参数的const表达式\nMerge pull request !3131 from 夏自豪/const_3.14"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dabb2aa2eb034435286647e5dfef5af17101bd49",
+        "info": "!3127 同步5.0.0版本问题修复\nMerge pull request !3127 from 杨浩/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8830c956d11ea2a4edb3013945abf4c68e342551",
+        "info": "!3114 解决用关键字带引号创建用户，报错信息不合理的问题；解决test_user_host参数说明不合理的问题；\nMerge pull request !3114 from 王修强/user_host_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d5e6d1bd9a4e8212d025ce87b961bfe503d75cfb",
+        "info": "!3101 增加一些internal类型的aggregate的支持（for postgis）\nMerge pull request !3101 from 梦回溪笔/agg-master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f625ecf8bf0f8ab8be799dba3960a558e43055af",
+        "info": "!3126 dblink适配oracle odbc接口\nMerge pull request !3126 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7da0f1b66ac50e5ecfa35e3b7dd2da5a54d2751d",
+        "info": "update src/gausskernel/runtime/executor/execExpr.cpp.\n优化const表达式\n\nSigned-off-by: 夏自豪 <xiazihao3@huawei.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7799ea9acab2a65b6b8a6c9fce889dc4535916b6",
+        "info": "Resolve conflicts\n\nMatch-id-6a02e31bf46c25ce11f2bc544c5c830263d4ae24\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d6d6d382e3808de108b1852e16b845304e843ce2",
+        "info": " fix gs_undo_translot_dump_slot sync\n\nOffering: openGaussDev\n\nMore detail: xxx\n\nMatch-id-0817c5c5533af4d0fc7cc05a50817ec4d634a31c\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7be67ae4b071fb8ea5c40e91c4e03ebb3351e5db",
+        "info": " select_into_fix\n\nOffering: openGaussDev\n\nMore detail: fix the lost of targetlist data\n\nMatch-id-18da7d885125b5bbd6c1cbe3b1588751ca89f554\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/415a621a1e58e7d443624b7a669bddedcf225199",
+        "info": "  Add 'replicate path' judge to single node when set join distribute keys\n\nOffering: openGaussDev\n\nMore detail: The single node also can generate 'replicate path' to parall, so need\nadd 'replicate path' judge when set join distribute keys\n\n(cherry picked from commit 967c3e6aa443818eee66313fd98625e88ce80ac5)\nSigned-off-by:  <hw.mengjuncai@huawei.com>\n\nMatch-id-219af804df439fe8d9e8923f444df492020da5da\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/801e0bf8f8b0cb6d076fc5b8933421a347c52292",
+        "info": " delete assertion\n\nOffering: openGaussDev\n\nMore detail:删除断言\n\nMatch-id-a42c3e05f216efc089439821d7f6cf6d24607386\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/509d77e7b551b2ef7dee30676b8791e52669e5fd",
+        "info": " firs|after col_name适配comment\n\nOffering: openGaussDev\n\nMore detail:\n\nMatch-id-ef6dfeec5bb59cb5829f75ec486c6a733fdc1f75\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1d3224ee385858bb1fdf9a47a6b05ed3a670ba7b",
+        "info": " ALTER TABLE MODIFY语法收编modify column comment功能\n\nOffering: openGaussDev\n\nMore detail:\n\nMatch-id-aee0ed63ba238bfb4a416217492f609c55f04dd8\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/01f55d94bbb518d6795fd528ab6aa1535bfa18c5",
+        "info": " 定时任务适配help\n\nOffering: openGaussDev\n\nMore detail:定时任务适配help\n\nMatch-id-cb871d5c7cd25dbf2c4947e94faaf72d55b0256a\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c2c5856f46324e6688a001d246951f65ec3cee12",
+        "info": "适配Oracle odbc接口\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/af58667a73c6ff329cc3bae839700b403508b1b7",
+        "info": "!3105 解决分区键为表达式场景下且列类型为data时，对分区表做DDL失败\nMerge pull request !3105 from 王修强/partition_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4de4ccac11c8738745dc8a2537a7de7a40c9693d",
+        "info": "解决兼容性B库下，alter user password不支持'user'@'host'的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/12cf8c4baf1b95ea804e378879a4f2053b660c00",
+        "info": "解决分区键为表达式场景下且列类型为data时，对分区表做DDL失败\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6c2ec6da1a10e45703658cd6f3facd8e1dc08f9e",
+        "info": "!3121 展平表达式框架\nMerge pull request !3121 from liuquanyi@huawei/flatten_expr_framework"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7df7d95e848ed0660c4107131a3b10fbe26ef734",
+        "info": "解决用关键字带引号创建用户，报错信息不合理的问题；解决test_user_host参数说明不合理的问题；\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/980e75155a647d5f5e62a68c950359478b94b95f",
+        "info": "flatten expr framework\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/49491934df7240ad17d192a9fc9d82b4f0dd9f4e",
+        "info": "!3063 【bugfixed】select 1234::int4::circle_tbl，cast转换出现数据库挂库，产生coredump\nMerge pull request !3063 from laishenghao/internal"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9b8857a7a8b8f6859cfafcab02467a847264a3f9",
+        "info": "!3070 [轻量级MR]修复pendingOps hash表在删除时因为cxt为null导致coredump的问题\nMerge pull request !3070 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a1e50557587702b2a67c1406d0e38520f0ee034f",
+        "info": "对通过internal函数创建的函数、自定义type增加校验\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/27029e408a18fde186fe00c817a5bfae1de038f2",
+        "info": "1:修复hash_destroy时因为cxt是null导致release失败的问题\n2:修复如果在备机上执行basebackup操作会概率性导致备机wal日志不回收的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/da68742866023fcd1667ed9f3680022e3ebccdda",
+        "info": "Merge branch 'master' of gitee.com:opengauss/openGauss-server into comm\n\nSigned-off-by: 刘宝珠 <liubaozhu4@huawei.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/885417471d5fe6dc37bed1197741f39fdd123308",
+        "info": "调整light_comm参数级别\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/02b127d59a1a0a7a8554f5c3cbe4cb526e564fd1",
+        "info": "!2669 1.修复Insert ... Select 列存分区表时，检查分区信息是否一致时，没有考虑分区类型导致代码逻辑出错的问题。\nMerge pull request !2669 from playrest/master-commit-2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c10190e5473ccf47412a321f73e06123fc8cfc05",
+        "info": "增加一些internal类型的aggregate的支持（for postgis）\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b7c1ba038ca5d11a5c698aa7e273f01d38d93c93",
+        "info": "2.修复回归测试用例\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0d9baa3e567ee347838d22af42ad025906a18cd3",
+        "info": "!3091 remove duplicated codes\nMerge pull request !3091 from zhengshaoyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5852ca47b94ed1590ba098033b4561f35912cbc9",
+        "info": "!3090 dblink_get_notify增加校验\nMerge pull request !3090 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/18eecad467a7ff4e94b2b18bb5ebe5c3bb48cf3f",
+        "info": "修复copy to、copy from提示错误问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1cbacdc03a8b15c3767b9b7c5a5791663b8a3617",
+        "info": "Modify current_time calculation method\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/aa5df7f2f92859cbb420476c77534c192b4c5e7a",
+        "info": "!3084 修改pg_event_trigger回退脚本\nMerge pull request !3084 from kenxx/fixmaster"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e6a9f948cd7305e364daf3fdbed78892e086377e",
+        "info": "!2931 创建防篡改表时，不支持Ustore。\nMerge pull request !2931 from playrest/master-ledger-ustore"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7f1c901bfcd97e6477639b98c13bacf5876f956b",
+        "info": "!3081 修复stream线程未初始化extension_session_vars_array导致的core问题\nMerge pull request !3081 from chenxiaobin/fixStreamExtensionVariable"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8b457d6d73eaa6dd42af550a5b4194d887731c0c",
+        "info": "remove duplicated codes outputfunctioncall\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/262e981f286d51985210111fb766a8356316db80",
+        "info": "dblink_get_notify增加校验\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b3c2cdac931dabc2d33eec6afab6b2b3842cd7e4",
+        "info": "!3085 【轻量级 PR】：修复alter_table_modify_ustore结果不稳定的问题\nMerge pull request !3085 from pengjiong/N/A"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f28ba6b9957b45c5dd0b97f7ca6f4352b95b68e8",
+        "info": "!3067 dblink 未释放未命名连接问题修改\nMerge pull request !3067 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/39c6327a93c27f198ebf147dca73a89197e1e3e9",
+        "info": "fix alter_table_modify_ustore unstable.\n\nSigned-off-by: pengjiong <totaj@qq.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7427d443e5bf92ffe0883498e3c377ecdf5ea771",
+        "info": "修改pg_event_trigger回退脚本\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7b302697aeddf0453b7d80068590ae423b136f1e",
+        "info": "修复stream线程未初始化extension_session_vars_array导致的core问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c48f7075fae618eec811dd367beeb72dd1bb1e09",
+        "info": "!3059 修复gs_probakcup工具在退出时没有删除lock文件的问题\nMerge pull request !3059 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f05a2a1b02cbc27333e9f42ce62e76ab058663b5",
+        "info": "!3074 修改create index的\\h语法\nMerge pull request !3074 from pengjiong/fix_case"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/82f43977a70f3fb803b1a5777b34af43dfcee917",
+        "info": "!3071 增加select_into_return_null选项，在存储过程的select into场景，没有行的时候返回NULL\nMerge pull request !3071 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3a22c2f1db563be34a44dec0b377968cdd2ce598",
+        "info": "!3058 解决user@host必须加引号的问题；解决打开enable_set_variable_b_format后，功能失效的问题；解决'user@host‘含义与mysql不一致的问题\nMerge pull request !3058 from 王修强/auth_og_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e3f02e2605ba64ed35007d285401be1a019d15a",
+        "info": "!3061 [资源池化]修复关闭集群再次启动失败问题\nMerge pull request !3061 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c23c85ff42405af2db595cf2619619b5352e3495",
+        "info": "!3045 同步5.0.0版本特性\nMerge pull request !3045 from 杨浩/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/37315bcbd01b5f96a4e51270d55af8a21aa30100",
+        "info": "!3054 修复同步提交机制失效问题\nMerge pull request !3054 from 薛蒙恩/sync_commit_not_work"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9d24c0e093d5d56d696e88c3d22aef8dca2a81a7",
+        "info": "Fix create index gram.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/df91ad5dc3708a39698b5106ba68dc68b4733b08",
+        "info": "!3049 修复JDBC setMaxRows查询完成后不会自动提交事务的bug\nMerge pull request !3049 from Cross-罗/fix_jdbc"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/64e79b15a23b4b637768eb6ba1ab3ebca29449f9",
+        "info": "Add select into return null.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7c5ebe3992332b35886c0f40346036406b0b84fd",
+        "info": "dblink遗留问题修改\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6ae789072f616d228dec9cdc604c2fd6cfb83790",
+        "info": "修复同步提交机制失效问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e4425c6df87114db81c454ac88da2aecdfbe41eb",
+        "info": "[资源池化]修复关闭集群再次启动失败问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1752658e26ea1f4766454695108ce90296f755e7",
+        "info": "Fix gs_probackup doesn't clean lockfile when exit.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/73c55c1dc872eec02669f292191ca45f0c49c250",
+        "info": "解决user@host必须加引号的问题；解决打开enable_set_variable_b_format后，功能失效的问题；解决'user@host‘含义与mysql不一致的问题;支持user@localhost\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cee4f486b303147486ea9cc34160cb4df299ca10",
+        "info": "!3048 修复gs_basebackup用默认xlog传输方式 -X 参数提示密码错误\nMerge pull request !3048 from 仲夏十三/mas9"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a94a50e30d2d10b62064d97612d4d974046130cf",
+        "info": "!3043 解决docker重新拉起失败的问题\nMerge pull request !3043 from zhangxubo/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/46e9fd015b5420247c8fe95a97ef30c01e96a071",
+        "info": "sync all inner code\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d639b6b94323e6089854ce14eb43fd841bf18f28",
+        "info": "!3021 合入PR: Bitmap Index Scan optimization,使用宏和模板重构bitmap使用的hashtable\nMerge pull request !3021 from yyl/3-3bitmmap"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a22a4de3d4f2bdc91f19d664cadfaaccfdde3810",
+        "info": "1.修复Insert ... Select 列存分区表时，检查分区信息是否一致时，没有考虑分区类型导致代码逻辑出错的问题。\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9e748bc12d67a8491c558539809861e4bffb47dc",
+        "info": "!3040 社区dss/dms commit点更新\nMerge pull request !3040 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/918d319bd173e976e8280e63eba9801de749c5a1",
+        "info": "!3029 【共享存储】1. 修复ckpt->doublewrite和switchover并发场景, 节点crash 2. 修复DSS切主失败导致DB panic core\nMerge pull request !3029 from 刘博文/1dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2468767828a4819d1b5998d4b70c3e316c43660d",
+        "info": "!3047 【共享存储】解决部分场景下备机未能跳过回放的问题\nMerge pull request !3047 from 陈栋/bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5dde94aeb4bc5677517c5991636ec6387fabe023",
+        "info": "解决部分场景下备机未能跳过回放的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e8a1c88864245495d5539838afec6c1fe241e0a8",
+        "info": "修复jdbc setMaxRows事务不会自动提交的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/73f7d2f9b173d1a5435b7d8a1c0d21cbdc8d9126",
+        "info": "clear password later for LogStreamer\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/34830d852ddf252f5e313b2f97898787452383f2",
+        "info": "!3039 修复uniqueSQL对hash算子统计信息不准的问题\nMerge pull request !3039 from 胡正超/hash"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b8ee37ad67f0926e635a4082217a1963dc099980",
+        "info": "!3037 避免重启db后备机将二阶段文件删除\nMerge pull request !3037 from 陈超/1.0.0"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ca5adff1b619f0fb44c3a4495daf6828e6c8aad1",
+        "info": "set DSS primary failed, simply exit and re-join\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8148d0a19d83ed3cdaee7bf8db53181701ca58c6",
+        "info": "社区dss dms commit点更新 3/7\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/efae2abdc99343709b9a1b0296ac6446711d0117",
+        "info": "避免重启db后备机将二阶段文件删除\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/85748e3c1250dac341b261b335502d20205bd886",
+        "info": "!3032 添加odbc依赖添加到包中,并添加dblink基于odbc连接失败时错误的详情信息\nMerge pull request !3032 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/00eaec99a38ff63c93dc1b1fddb5d3bc3f4adee5",
+        "info": "docker重新拉起失败\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cb4bb56d8de470d61fd58ee2519ede4d7032ea8e",
+        "info": "!2894 同时指定no-locale和locale参数时，gs_initdb出现coredump\nMerge pull request !2894 from zhang_jintao2020/gs_initdb"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/946165b8cbdadb32d1196f44e7e0705248ee31d9",
+        "info": "!3030 放开plpython自定义语言支持\nMerge pull request !3030 from zhangxubo/master-pl"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/432cc6d43ab75c7faa2111dd736d1a60b1ee9c55",
+        "info": "修复unique sql对于hash算子统计信息不准的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dd853ba943725718fd9c3922a14ec7ff5954803c",
+        "info": "添加odbc依赖到包中，并增加dblink连接失败报错的详情信息\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/37de345c9c07093c108d8a23505cb31cbce5a251",
+        "info": "!3027 【共享存储】在页面淘汰过程中，遇到DMS特定的待刷盘的页面，选择刷下去，避免无buffer可用\nMerge pull request !3027 from 董宁/dn_fix9_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1443f58545a5d03cdccb87c0867efdb65faa51c2",
+        "info": "!3036 修改创建ASTORE表时指定INIT_TD参数未报错的pr的自测用例\nMerge pull request !3036 from Ruixiang Li/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3cf655f35ff6958e20dc4ac5a7bd6fa4bb9dec40",
+        "info": "!3026 【共享存储】失效页面回调发现无效buffer时，向上层返回错误，由上层重试\nMerge pull request !3026 from 刘博文/2dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b1e88debe491e861edcbf1712ccd6803e8806ea3",
+        "info": "修改创建ASTORE表时指定INIT_TD参数未报错的pr的自测用例\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/227264f32ab3a8ad5d99cc10f2c0d72ec1b7e8a7",
+        "info": "【共享存储】flush buffer if need, which has need flush tag\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f358576f8b28b10edbdec99e4e77606bd1b74616",
+        "info": "!3003 修复创建ASTORE表时指定INIT_TD参数未报错的问题\nMerge pull request !3003 from Ruixiang Li/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4b47cabb2b463ec1797dce5a0b06beb49d4b1bd2",
+        "info": "!3025 规避并行make导致的file truncate问题\nMerge pull request !3025 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/58e6120553ea204e73a931c773d7e2b47b25c753",
+        "info": "!2998 SRF执行优化\n* fix srf factcheck case\n* SRF执行优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7a66efc41b76d52e2a291f1c96d31ff22d355d1a",
+        "info": "修复创建ASTORE表时指定INIT_TD参数未报错\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bf4e1d616dc8dea6bb8a9b26ce4adb16d849c3b6",
+        "info": "change assert to return error for invalidate page\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dcdd67aad70012bb2190a7d3915db966ebc5c073",
+        "info": "!2898 解决防篡改分区表insert时，全局索引tableoid为0的问题。\nMerge pull request !2898 from playrest/master-ledger"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5b6c28fe848f234992733b575d9569293d30c799",
+        "info": "Workaround: fix file truncated.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c47f5a09d4aa75edeaed06637b8c9add9147c15d",
+        "info": "!3006 undo launcher线程结束时释放共享内存中的latch\nMerge pull request !3006 from CCA/fixbug_undo_launcher"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7b3c0feadd954bb564b7aabf742969931046f5d2",
+        "info": "support plpython language\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/16f8644c9be7a90702610294d10f71abdbe68243",
+        "info": "!3024 增加dolphin hook plpgsql_parser_setup\nMerge pull request !3024 from chenbd/hook_plpg"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/93b27dc49f74d28fb55a78eb421193dbbdf109da",
+        "info": "合入PR: Bitmap Index Scan optimization,使用宏和模板重构bitmap使用的hashtable\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/af36f2ac5276f7160ee88300e3ec253a7b802b0a",
+        "info": "!3022 修复libpq模块parser的文件引用问题\nMerge pull request !3022 from fugang/parser_opt"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/409e828445cd6ad411831d02d1c7196dc57f3cfe",
+        "info": "增加dolphin hook plpgsql_parser_setup\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fc265060996a36258bea5bb0f64c400c3982c41c",
+        "info": "fix libpq parser and makefile\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7a5a56852ffc8acf49a59116a0f9cfaeafeca320",
+        "info": "修改函数memTracker_ReserveMemChunks的逻辑\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/eb020174a8f106ba2367e9d924962aa581f47eed",
+        "info": "!3011 修复pbe场景下explain plan的core问题\nMerge pull request !3011 from 仲夏十三/mas9"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4b8cfc0f1a11f6720fbfcb1931dc7fcb71cc3cae",
+        "info": "!3016 修复自定义单目运算符在nodeToString阶段报错的bug\nMerge pull request !3016 from Cross-罗/fix-rewrite-bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/66a0e4f347daccf033815a77adf42e67e58b6fc0",
+        "info": "fix explain plan pbe core\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/40c11d8fa8bc1ffcd30d894d8e34919c556ad302",
+        "info": "!2915 实现事件触发器\nMerge pull request !2915 from kenxx/ken_eventtrigger_submit"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9f8064bb24c972d045a9e56aadae7413c86a0821",
+        "info": "实现事件触发器\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5a69c46920ee281b3b30e7058f111eacd1662782",
+        "info": "!3017 dss dms commit点更新\nMerge pull request !3017 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/195e9d58c348812375a55fbf8bdbf159f2e362bd",
+        "info": "!2983 Numeric优化\nMerge pull request !2983 from fugang/numeric2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cd12ea624e15a2b9b8fda97912e66f86d94fc131",
+        "info": "!3010 Parser优化\nMerge pull request !3010 from fugang/parser_opt"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b8538ddcfb0e001fcd3cad004aa723bec61f8388",
+        "info": "!2952 修改syscache,catcache 的访问方式，可以接受hook\nMerge pull request !2952 from chenbd/hook_cache"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d0b095c505e12ebd1ab9d6500456db15411a248d",
+        "info": "dss dms commit点更新\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4e461e3ffb8975d4e887d6457d75ac612bda925c",
+        "info": "修复自定义单目运算符在rewrite阶段报错的bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/672a03e1c5cf85c28e98b248632774f27142f226",
+        "info": "!3005 修复不稳定用例alter_table_modify [ _ustore ]\nMerge pull request !3005 from 胡正超/fsck"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/449de3d407311377c977f47b53f0b726089e3598",
+        "info": "parser opt\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d4c6baf3f2bd1d902858b797f7e7533115baae65",
+        "info": "!2987 对agg numeric类型sum、agg等函数优化\nMerge pull request !2987 from cailei/numeric_0227"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/022391dab6dd92b48b4ea1142a3f599b7b6de5da",
+        "info": "!3004 修复dblink的make install位置放置错误问题\nMerge pull request !3004 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2f380bcdb0e9511ce11d2ef1cb817f7ab6eb5155",
+        "info": "!3009 dss dms commit点更新\nMerge pull request !3009 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4a4cae7bf874c8b052e63a81ef950b9a662e1c81",
+        "info": "!3002 jsonb中展示小数的前缀0\nMerge pull request !3002 from 胡正超/jsonbnumeric"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a54c0c8f4b0e5935d2795adb4a1958cc87995050",
+        "info": "!2800 B模式语法兼容- declare handler\nMerge pull request !2800 from 暖阳/declare_handler"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/597f69d7a4b5c0fd00c9099897dca68482ede97d",
+        "info": "!2872 优化hashjoin的hash策略\nMerge pull request !2872 from wanghao19920907/PR_2296_new"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/20b5a1f9f4eeed3b8d75a646ab3ee8a0a0d40626",
+        "info": "!2934 MySQL兼容-create table as\nMerge pull request !2934 from qx21/master_createas"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d95ff6d97471b634602bf7c0244a04eb7a27acb9",
+        "info": "优化hashjoin的hash策略\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4352632534d60232929d7a9c3a701a23dbbcca8b",
+        "info": "dss dms commit点更新\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4180f34b3dab88e7a0b27780be7ad665dc50205d",
+        "info": "agg优化 numeric相关sum\\avg等优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8c9b36a9d8ee1424f93a1b71a911047e5f857702",
+        "info": "!2648 M* 语法兼容 select @var := 2 语法\nMerge pull request !2648 from chenbd/uservar_req"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8cd82a12c5d93f1859e27164b4ac7fb22c7f339f",
+        "info": "fix undo launcher's bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e134f38892dd25870aaa03fb96872c63de87f52a",
+        "info": "Jsonb should always display leading zero\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f7a4a90e936d6db22bdf70a8228ab34e802d04c3",
+        "info": "修复不稳定并发fastcheck用例\n\n并发alter_table_modify alter_table_modify_ustore 用例中, 使用了同样的用户名，当两个用例的这部分同时执行时，会导致错误\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/575169c0e6d640b920cf20c30672f8b0e9d52668",
+        "info": "b_format\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/55fb931a8e059e99b178234a44ba64ce84059007",
+        "info": "declare exit handler for condition_value\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b37d669f16986018d49701f5f78d45e0d6725046",
+        "info": "M* 语法兼容 select @var := 2 语法\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9ca77f6327e26ca833f1fc7eaee35b7b4f532b8c",
+        "info": "!2996 AGG投影和转移函数优化\nMerge pull request !2996 from 夏自豪/agg_v1"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/633add65a573924edb9182696f8fe3a426433b5f",
+        "info": "!3000 add upgrade check in pr template\nMerge pull request !3000 from zhengxue/master_pr"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ed24b4dd2af909e04015095f3aec5a205a4c4962",
+        "info": "dblink安装\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cb69338a83c3c89921c148482181d8b5726e92b7",
+        "info": "!2557 M* 兼容 force/use index 语法\nMerge pull request !2557 from chenbd/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/73d540c750e8592414137bf133714d3289a5cc41",
+        "info": "!2978 Inner Unique optimazation\nMerge pull request !2978 from hyperstol/master_iu_2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/36b42f0507382a6ee11dc420582371efe1b54418",
+        "info": "!2947 dblink支持通过odbc连接异构数据库\nMerge pull request !2947 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/baedc3ab1ebcafea719b6bbcea5aabb49cd069f2",
+        "info": "!2939 支持以user@host进行认证鉴权\nMerge pull request !2939 from 王修强/auth_og"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/60b367a940c8f2734869b6e2831e54704d2c1cb3",
+        "info": "add upgrade check in pr template\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9e57ff3e8e9054f99a6ee5639f5bd6b95ace0201",
+        "info": "Inner Unique\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2815152fe11500fd6a8a333f4ad414e7e3400e95",
+        "info": "dblink支持通过odbc连接异构数据库\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/70f464b44d475fb75fc0195c26af69ca0aa558c0",
+        "info": "!2986 索引扫描算子优化\nMerge pull request !2986 from yyl/base-index"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6bbae768f1dd045ce6119b88c7782f5fb39794ee",
+        "info": "!2966 扩大备份日志数量\nMerge pull request !2966 from jihanyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1b8ab5a2e237bdf971b0facb275c6e2d102954ba",
+        "info": "减少nodeagg算子初始化转移函数的次数，减少算子nodeagg的投影次数\n\nSigned-off-by: 夏自豪 <xiazihao3@huawei.com>\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cae89236d19c8177dd809e668f0c66ddccc45543",
+        "info": "!2963 修复多表操作时有子查询报错的问题\nMerge pull request !2963 from 吴禹均/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/41078c951ab42f1973bdf1905621920f41c192f6",
+        "info": "!2979 Seqscan底噪消除-单表查询无索引性能优化\n* Seqscan性能优化\n* Seqscan性能优化\n* Seqscan性能优化\n* SeqScan性能优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/62d9aa701208e1c84f40f0c9ac359cb8c745cf39",
+        "info": "角色验证和鉴权\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/34f759c327cb485f664fc389095c2bbe71ab8be7",
+        "info": "!2950 支持兼容lock tables语法和功能\nMerge pull request !2950 from 王修强/lock_table"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d0626058b8baee874d8384a250e8444d982c79f8",
+        "info": "!2992 【共享存储】锁模式为NULL的情况下也需要转移页面\nMerge pull request !2992 from 董宁/dn_fix8"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0ffb3f47a015c4d6c8bcdaa6df80643154757fba",
+        "info": "!2960 TPCH查询重写优化，子连接提升\nMerge pull request !2960 from haruworms/slk"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5f7ad14378b21200518d314a1b7a4299b165e0f6",
+        "info": "!2376 hashjoin细节优化\nMerge pull request !2376 from wanghao19920907/PR_2299"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0cbaee4398c8a732201f3761688b5cc9977aab62",
+        "info": "创建防篡改表时，不支持Ustore。\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bb7cffcc3b44f6f523097ff754d2b71d29751750",
+        "info": "解决防篡改分区表insert时，全局索引tableoid为0的问题。\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/728bb6933b380d20b4645be79bec3e58d5ebc339",
+        "info": "修改syscache,catcache 的访问方式，可以接受hook\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fc7032535fc0e655818b4fc6234ead11f36f3c08",
+        "info": "扩大备份日志数量\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0126ddc59d3d9455c15da1bc67e2068c5de345bf",
+        "info": "索引扫描算子优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3541b757bd8fa839ed3b67b51ee3717304fa2339",
+        "info": "【共享存储】在锁模式为null的情况下，依旧转移页面\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/93637173848d6966f7107941c4039ba67f23a59e",
+        "info": "M* 兼容 force/use index 语法\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3fee79a0809a3d5eac97da41653acfa4814834d1",
+        "info": "!2971 【共享存储】适配极致RTO\nMerge pull request !2971 from 陈栋/rto"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ad1a3b25d7a6440483e9649400104718732f50ee",
+        "info": "subquery optimization in TPCH\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1f6090e30e764570a5a66aa4bf82f4d6a5782f14",
+        "info": "!2977 同步5.0.0版本特性\nMerge pull request !2977 from 杨皓/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f7d23913d6acad4da5404e478b5d2e97f662be1f",
+        "info": "sync all inner code\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7d1c911b5ca6de08f0f9a9f0d44a2cab1275059d",
+        "info": "!2784 函数WLMAdjustCGroup4EachThreadOnDN内比较不准确\nMerge pull request !2784 from foolishlee/WLMAdjustCGroup4EachThreadOnDN"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/22735000603c4bff5e3f74ac04e2e2e68c8cb10d",
+        "info": "!2974 通信优化\nMerge pull request !2974 from 刘宝珠/comm"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a7eacafadef929977980071a0451a6f699d6c5da",
+        "info": "!2965 xml增加小型化控制\nMerge pull request !2965 from 刘恒/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6bb6c98613a3ea0c992bf9fafd7e032cdad8b41d",
+        "info": "【共享存储】适配极致RTO，更新dms commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/26e959b40563bf38b37393f8c6969d0e0e512743",
+        "info": "通信优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/add392eb9a999bf0285a856bc1ae982a4def446c",
+        "info": "numeric optimization\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6db88b785b7cf6d1ccd9983299d86c02ee462d4d",
+        "info": "xml增加小型化控制\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a10741b11e1f6b1321e7008ea7fe2857463ee2e4",
+        "info": "!2969 优化printtup执行效率\nMerge pull request !2969 from 刘宝珠/printtup"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/210b3aa814f12086078f993e8ff77fce6d52aeac",
+        "info": "优化printtup执行效率，去除不需要的逻辑\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2f59d8c81cad63a4d9dc5d8e04cef6c047be4f08",
+        "info": "!2895 gsql 客户端\\timing 计时开关打开后，显示时间错误\nMerge pull request !2895 from zhang_jintao2020/timing2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/21142410853c3a8938f321434897fe4399512462",
+        "info": "!2959 [共享存储]修改issue--共享存储模式gs_probackup备份完毕立即cm_ctl stop，数据库重启产生core\nMerge pull request !2959 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a2baa2d93430e158203da69a99090ccac6f3daf2",
+        "info": "!2964 发布订阅自测用例增加database兼容性参数\nMerge pull request !2964 from chenxiaobin/addCompatibility"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/404cd52cd145f04567f94ef5183482b76f0e13d7",
+        "info": "MySQL兼容-create table as\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e20244935aaddb5059e02c3fd0192945d2eab01",
+        "info": "!2957 修复alter table set schema可修改为系统内部模式的问题\nMerge pull request !2957 from Ruixiang Li/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5b5e66910b232b03212cdee52fc911e6f71e20b6",
+        "info": "发布订阅自测用例增加database兼容性参数\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0562c038b80085f7dddfce5f7e9cd5e4b8d63c66",
+        "info": "修复多表操作时有子查询报错的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a349da1ca3d022c812c41ed6d9b7b54b2a4fd525",
+        "info": "修复alter table set schema可修改为系统内部模式的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ab40a11cd1f174c92c0eaa5142db1e642a3a846b",
+        "info": "修改issue--共享存储模式gs_probackup备份完毕立即cm_ctl stop，数据库重启产生core\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3d61862de974a4812ded85becafcbc2accc04c78",
+        "info": "!2958 修复explain时hashtable为空的问题\nMerge pull request !2958 from wanghao19920907/fixbug_PR_2297"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3bc9cc5f7d4937c97f149b4c87e315839a13754d",
+        "info": "修复explain时hashtable为空的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/baf70db8f48f8a590f36c7fb733a203f91a8786b",
+        "info": "!2766 函数gs_r_release_comm_memory内变量cmailbox->buff_q->u_size判断不准确\nMerge pull request !2766 from foolishlee/gs_r_release_comm_memory"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/157d1f141e6eb50e2f03477126e24f5a3f895ea3",
+        "info": "!2778 函数IsQidInvalid内条件判断不准确\nMerge pull request !2778 from foolishlee/IsQidInvalid"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cbd95387576488c176c8388cb7648bd204b7771e",
+        "info": "优化hashjoin细节、对位操作等做一些指令级优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b590711499aa21273f1a0631dd38fe26002d96ff",
+        "info": "!2942 修复OpenGauss CREATE INDEX不支持IF NOT EXISTS语法的问题\nMerge pull request !2942 from yuchao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d1b7965c06b77d4f59bb139949f5c93a90042e2c",
+        "info": "!2380 提升external sort性能\nMerge pull request !2380 from cc_db_dev/main_external_sort"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0853225018ed8316cec9de5a028b0f0aca2775e5",
+        "info": "!2379 提升numeric除法性能\nMerge pull request !2379 from cc_db_dev/main_numeric_div"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c4187161ece4ef918dfa7c2c289a0c7e47be1a5d",
+        "info": "!2954 修复dms event视图查询bug\nMerge pull request !2954 from 叶佳才/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c85182e24cbbb6e0f7fb6ddee183e89071ac01ac",
+        "info": "提升external sort性能\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/44135e23403dcfb4083be51b2b2304d36fe8b5d5",
+        "info": "修复OpenGauss CREATE INDEX不支持IF NOT EXISTS语法的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d326c9ef54cdb56a853b652a91e5e57600fd2655",
+        "info": "!2378 修改bufferdesc大小，提升性能\nMerge pull request !2378 from cc_db_dev/main_bufferdesc"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f041cf508ea8b7616e8f44b80061d1999967123c",
+        "info": "!2822 TupleTableSlots, tupleDesc, Relation数据结构及相关函数调用优化\nMerge pull request !2822 from wanghao19920907/PR_2150_new"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a71786ee1c01aaf45e3521b32741e10895fc6443",
+        "info": "支持lock tables部分功能（server侧）\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1b885087e7ec58e362f4688212062223849ef759",
+        "info": "fix dms event bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d11f5b12ac11e9d7c4bbf051f13deba6395041c8",
+        "info": "!2870 修复plpgsql空数组core问题\nMerge pull request !2870 from 仲夏十三/mas9"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f00f5e10f8d36702722e813561d773e3a136296e",
+        "info": "!2936 【共享存储】1. 梳理并发场景：Reform与获取各类事务状态并发；2. 优化Reform状态机，减少宏命名歧义，Switchover时dms role在DB与DMS侧同步切换\nMerge pull request !2936 from 刘博文/2dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dee734479a6403e666350fb2e65570a0ac05b38d",
+        "info": "!2951 【共享存储】 load_relcache_init_file、write_relcache_init_file函数拦截\nMerge pull request !2951 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/49eae2eb2cbfd141ed7958e4053dba159f503e13",
+        "info": "!2940 修复explain后导致匿名块无法调用存储过程的bug\nMerge pull request !2940 from Cross-罗/explain_bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e62c1b5080ea969cee94a5733600d29f5c42e384",
+        "info": "dms reform state machine;\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/548a2950a6a881b7ed7d220705f9d2aed8f9950e",
+        "info": "explain bugfix\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8ecf040d21c6f6f2e9365b209c5f8590a56b6d65",
+        "info": "!2920 修复发布订阅场景下删除订阅失败的问题\nMerge pull request !2920 from chenxiaobin/addWait"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7012d53d76fa2d71803a42ef141dde55ff1a727b",
+        "info": "!2937 解决eg_init_bitmap_page_content函数里面判断条件永远为真\nMerge pull request !2937 from tangxiao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/96a8d0034265739a1b0f7fbe5425a83b49aeb4a4",
+        "info": "load_relcache_init_file、write_relcache_init_file函数拦截\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/adbb73b632d3db15c48876a6ff9f7a288d333063",
+        "info": "Add a WAIT option to DROP_REPLICATION_SLOT\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7db0daa08d2b1418e1c7b485d8bbf0d4538886c3",
+        "info": "!2946 【共享存储】释放bufTable的partition锁\nMerge pull request !2946 from 董宁/dn_fix7"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/45c965e4f0748457b0aab791a5d1cbe7f6010d98",
+        "info": "forbid treating () as [] array in B and PG\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/911ea39beacc6d5498819e0b410bb01cafee2ca0",
+        "info": "Relation数据结构及相关函数调用优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9f848935354afdc58ca0c00ef767b538c2b3d902",
+        "info": "tupleDesc数据结构及相关函数调用优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fd1f338af541e93dc61601cd64580bc559d84d81",
+        "info": "TupleTableSlots数据结构及相关函数调用优化\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c3e3237fe05708fbdaada51c6f9985abf9a3498c",
+        "info": "!2917 【共享存储】增加页面可访问性拦截\nMerge pull request !2917 from 董宁/dn_fix6_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d5922c6a7e4f7010df9278fb957b6f1979febb8a",
+        "info": "!2926 添加create table partition帮助中支持distribute功能的约束\nMerge pull request !2926 from yuchao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ddccb0aea59752d3d672f7e216cbe821dd3bece2",
+        "info": "!2945 添加dms event视图\nMerge pull request !2945 from 叶佳才/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a7e70728e4b9d1d317ed48c2715d9dac4dc7a8dd",
+        "info": "add dms event\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/04aba45854e1093d14775cabd7864a6654955823",
+        "info": "!2933 修复当为带有表达式分区键得分区表添加主键时报错的问题\nMerge pull request !2933 from 王修强/og_master_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5761b228694c2975435d7a5e9dbfd2a26895248f",
+        "info": "!2838 解决在synchronous_standby_names='*'时gs_probackup备份失败的问题\nMerge pull request !2838 from Movead/prgbackup_feedback_lsn"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f854dfb0c55bc68578549733aab42c36571435e5",
+        "info": "!2943 放开二阶段事务限制\nMerge pull request !2943 from 陈超/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a1c285af1d83404f3541b992bcd7b59effad9c25",
+        "info": "!2918 opengauss支持xml\nMerge pull request !2918 from 刘恒/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a163a0aa81a4a3996ab04d20402b493ee5f2a96b",
+        "info": "【共享存储】释放bufTable的partition锁\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7aa62090e74c856a7bdb417f91127a0f2b837546",
+        "info": "!2944 dss dms commit点更新\nMerge pull request !2944 from zhaobingyu/gauss_pkg"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1c0426da86359c35f5801c743e0396761cc61a3f",
+        "info": "!2922 issue修复-操作符优先级问题导致特定表达式语法解析失败问题修复：NOT BETWEEN/LIKE/ILIKE/SIMILAR修复\nMerge pull request !2922 from zhangzhixian/operator_precedency_revise"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b40c3ffd7f9006bbe58c648d986f22cdf67d43de",
+        "info": "支持XML类型\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2b6bc9e490a67f84f9823e5fe758afa6c446b2b5",
+        "info": "dss dms commit点更新\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/017d7dc0a5be712899297beb6556d10633c1b5b1",
+        "info": "!2821 修复:存储过程selet into 变量报错\nMerge pull request !2821 from chenbd/fix_delim_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4ce106922c2ecebdfda56719dbba02744bb33cf2",
+        "info": "!2375 合并pg优化，必要时增加hashjoin的bucket数量\nMerge pull request !2375 from wanghao19920907/PR_2297"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/913c0e2fd3769a1653968dd12a1e77ec9ed43e56",
+        "info": "!2374 修复init_var_from_num中性能瓶颈\nMerge pull request !2374 from wanghao19920907/PR_2295"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d1c46bb20ff77c67bbddcb631131cee2de85fad2",
+        "info": "!2363 执行器优化\nMerge pull request !2363 from wanghao19920907/PR_2101"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e08956f59629ac6cbf6d7834f6ed59cc7bf983c6",
+        "info": "!2354 合并pg pr:集中逻辑保护复制的效用语句\nMerge pull request !2354 from ab2020c/master_utility"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2314f1c9cf03e144930738876b28b92ac39ca49a",
+        "info": "!2668 declare condition 缺陷\nMerge pull request !2668 from 暖阳/fix_bug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d9f1f30ae0fe9c7a5e5b69aa1f7528fa2df3e063",
+        "info": "[共享存储]放开二阶段事务\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b768b63576da3fcaf32956fe41cf3c45bbb4e13e",
+        "info": "!2928 1 load_relcache_init_file/write_relcache_init_file 使用512对齐的缓存读写，规避对接DSS后无法非512读写\nMerge pull request !2928 from 陈超/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/67dd64aa1b7c3d1bd71dca59891a8226f020604f",
+        "info": "[共享存储]load_relcache_init_file/write_relcache_init_file 使用512对齐的缓存读写，规避对接DSS后无法非512读写\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e6e765493ebfbe4ae68859d8928c771aa14a22a0",
+        "info": "condition value\n\nfix_bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ec4c0de6490e32d355d7bc832687f4bc1e1d714c",
+        "info": "!2941 空格问题导致门禁失败\nMerge pull request !2941 from buter/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5988b0d1dc1e305765b82876bc13fe21e002d2f5",
+        "info": "修复空格问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e88cef70c1db353df993194a421191b2963c00a4",
+        "info": "修改bufferdesc大小，提升性能\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c8bd22a4709958a028be0e3b75852d959d0f14b0",
+        "info": "!2919 新增极简版和轻量版的区分标识\nMerge pull request !2919 from buter/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9929f73f0ccd2910e4ca2d1e3613d884b18d5e0f",
+        "info": "!2930 推进dms/dss日志压缩的commit点\nMerge pull request !2930 from jihanyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c47ffdc13770dfb20468d667cd5af6ac14f412a4",
+        "info": "修复eg_init_bitmap_page_content函数中判断条件永远为真的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/707b72e2ceb4fd521f4f6f8c08b57bfd5925b5a0",
+        "info": "修复当为带有表达式分区键得分区表添加主键时报错的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f427d6a2ee3ab03e0a5df408570b12287abef569",
+        "info": "!2901 禁止防篡改表的索引引用hash字段\nMerge pull request !2901 from playrest/master-ledger-index"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/58f804b16d63542cc0f64e5f87f2bce2ce3f2662",
+        "info": "推进dms/dss日志压缩的commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c0be30e0e3d4286285b71d32ed89aa210fc45dce",
+        "info": "修复:存储过程selet into 变量报错\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6d2b1fbdb0403985cfeb3ebac10185248e4af2d8",
+        "info": "添加create table partition帮助中支持distribute功能的约束\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2c54c673949640a9920be779e15992108428233d",
+        "info": "[共享存储]增加页面可访问性拦截，1避免业务线程获取到中间版本页面 2）避免大量无效请求\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ba442ff864658665e0d3d0e7fcb96851f36ad789",
+        "info": "!2921 【bugfixed】解决参数max_processes=200000+开启线程池，启动数据库coredump 的问题\nMerge pull request !2921 from laishenghao/connections-core"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e894cc3f1e656092ae1611863f11c36f7a8acbe",
+        "info": "!2279 修复label名截断问题\nMerge pull request !2279 from qx21/feature/labelbug"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7e7564950ab2cd7fb899b03d074ffc2439fd90c0",
+        "info": "!2731 解决update部分列无法选择正确分区的问题\nMerge pull request !2731 from 王修强/partition_key_update"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c15d34220b7e4ae8185f80e8cb7e2ef13ad979ef",
+        "info": "操作符优先级修复：NOT BETWEEN/LIKE/ILIKE/SIMILAR\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/688db7b48bf8d2f5cdf6198d86d4d60a1f78e4d0",
+        "info": "!2681 错误信息缺陷修改\nMerge pull request !2681 from 暖阳/fix_bug2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c9baf1bd5bd3cfa6b6ad22ba2e8dabeefda420ed",
+        "info": "解决参数max_processes=200000+开启线程池，启动数据库coredump 的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f7453c1b8d38309c85e002c05cf61d21360a8df8",
+        "info": "!2711 create trigger 语法兼容dump缺陷\nMerge pull request !2711 from 暖阳/fix_bug1"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a3ce762af92064e4a3d06e9be926eb5fff68b464",
+        "info": "!2905 修复配置jdbc驱动参数preferQueryMode为不同参数值，yat执行用例结果不一样的问题\nMerge pull request !2905 from yuchao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d7420c2cafd1c769f5f3570c17df27a4d62678ec",
+        "info": "create trigger dump error\n\ntrigger function body is null\n\nupgrade version\n\ndefiner user name quote identifier\n\nupgrade version2\n\nformat\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b5975015950eb73fa897e6d89116931a279d3b7c",
+        "info": "!2868 补充发布订阅用例 && 修复若干问题\nMerge pull request !2868 from chenxiaobin/pubsubTestCase"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b7c6ae6ac0522ed84de044ea8e13ef6c21923afe",
+        "info": "新增极简版和轻量版的区分标识\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0387492fed185bdf17b6b125d535746cb6216e11",
+        "info": "!2908 [共享存储]修复备机起WLM线程后存在xlog写问题和reform过程中在2次LockBuffer中卡住的问题\nMerge pull request !2908 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5fa81bb4ec6518bb6e17a33773fbc77cc7c4697f",
+        "info": "!2888 issue修复：操作符优先级问题导致特定表达式语法解析失败问题修复\nMerge pull request !2888 from zhangzhixian/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c59b22d73f6acb4c3222a1bc9da07947b37a6892",
+        "info": "!2902 【bugfixed】解决net、range、hash等类型ignore_error不生效的问题\nMerge pull request !2902 from laishenghao/ignore"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3a995f97e6440c3d1499a1baf84834f8433826ba",
+        "info": "!2891 修复SWCB在空格场景下的core问题\nMerge pull request !2891 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/76d2924502e250d7ba0facdb1d9a3ff601ff2e8e",
+        "info": "修复备机起WLM线程后存在xlog写问题和reform过程中在2次LockBuffer中卡住的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/72318f22ba6ca6f6c73c661141d0328b27a99279",
+        "info": "解决net、range、hash等类型ignore_error不生效的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ca299a3b9b382b0f3b281b2ec21662938ca5f83c",
+        "info": "!2911 修复重启数据库后，多并发连接B数据库导致的重复加载插件的问题\nMerge pull request !2911 from pengjiong/drop_ext"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1c5977ee03ffee26556acbe4b97f7ae084302872",
+        "info": "!2912 更新dss commit点支持dsstest编译\nMerge pull request !2912 from zhaodu/dss"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3f2da96ef6e2848947c0d7816880c5961a9ed49d",
+        "info": "!2900 修复full join+windows agg场景下找不到var的问题\nMerge pull request !2900 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/157095553ce8aae47bafc2330109b7af38683837",
+        "info": "!2903 修复部分主备相关的内部线程通过pg_stat相关函数查询不到appname和create time的问题\nMerge pull request !2903 from pengjiong/fix_case"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0140f8d9f4024ef47ef3fbd026af6d7f4a823577",
+        "info": "!2916 修改脚本\nMerge pull request !2916 from xiaoxiao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ae4379f8a4249ec9814a74ceaa56e976007fa272",
+        "info": "更新dss commit点支持dsstest编译\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/decca5a547b5d5b8d916352166e4355e8e0b16bd",
+        "info": "修改脚本\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dff7dc06c52587275e749f82c55cbe8cdf9caad0",
+        "info": "!2851 兼容MySQL支持隐藏索引\nMerge pull request !2851 from chenxiaobin/newIndexInvisible"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/da54d69be92cf76c7dec5fb75de453dabc9b3b8e",
+        "info": "修复配置jdbc驱动参数preferQueryMode为不同参数值，yat执行用例结果不一样的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3dac2a636a53d0429373dcedb6a1ef5bb5ec6bbd",
+        "info": "Add lock for loading so.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ddd104c59671e987179583f27fcb3af4e0ad18ca",
+        "info": "support invisible index\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/52dd7bc750a3c7f262bc624453f70cc8890bba6d",
+        "info": "!2871 【MySQL兼容性】distinct支持order by带表达式。\nMerge pull request !2871 from laishenghao/distinct-orderby"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a216c40a7811c8dc2b1051f80c42eda4bf6f6431",
+        "info": "!2889 English spelling error\nMerge pull request !2889 from zhang_jintao2020/spell_error"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9d042874a6a9ee7a0a4151859a2462f6cbe7e071",
+        "info": "!2909 DSS DMS commit点更新\nMerge pull request !2909 from zhaobingyu/gauss_pkg"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4d3d277e4eb6c8b706329908d869b0a62d534bd9",
+        "info": "DSS DMS commit点更新\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2e6ea6fd6cabf2eca20b7646932573e3dbcd1473",
+        "info": "!2907 修复gs_tar工具中help和version命令显示错误等问题\nMerge pull request !2907 from zhangao/master_gstar"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1ab1d8fb8c09e76152e1dec825bc90fdabe4bc4d",
+        "info": "!2904 [共享存储] 重置dms/dss日志路径\nMerge pull request !2904 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7ba1b5ace1aa323730f72bca3cce53b7946e0a52",
+        "info": "!2897 【patch】调整gs_dump报错问题相关脚本的目录\nMerge pull request !2897 from laishenghao/file-path"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9b4c93183ad648790b4606a46e430e2656a59920",
+        "info": "add gs_tar parameter description\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/229f58f82cdb03592c92d578f0650e9bbce12038",
+        "info": "Add pgstat for aux thread.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3154c5a3b2c972f2343fdfee9a20d1b19bd44356",
+        "info": "Revert \"【共享存储】dms/dss 日志路径添加nodename\"\n\nThis reverts commit 4b01d2fcdd306d661170ba495832092c7b751eb2.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7f9abdab109493d3858205bbad7f1ccc092a7dee",
+        "info": "Revert \"更新dms/dss日志路径\"\n\nThis reverts commit e9f29064ddf41ee86e64802e67eeca33512ec508.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ad8b8ebae2c6dc75db75f77a4bf07c705f6234a8",
+        "info": "!2876 函数PoolManagerCleanConnection中调用pg_usleep空转了500ms\nMerge pull request !2876 from zhang_jintao2020/PoolManagerClean"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2a4045fbca9353c73a527f15f59ab762f7d5cdde",
+        "info": "!2899 【bugfixed】解决右值引用存在returning语句时core的问题\nMerge pull request !2899 from laishenghao/rr-return"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e4a129c9b1dcbef978f0a80ef42f82d325c29bd",
+        "info": "禁止防篡改表的索引使用hash字段。\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7d8eb9c1eb49860dba15e2dcc09e621cad96ea21",
+        "info": "Fix fulljoin + windowsagg.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a00323d24b11f1fcfd5f6c28025676c43fc5b371",
+        "info": "!2865 修复sys_connect_by_path函数找不到对应array_col的问题\nMerge pull request !2865 from chenxiaobin/fixSWCB3"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3b73572c0fffba1f1f68a3a5499d85c6b195d01c",
+        "info": "解决右值引用存在returning语句时core的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/997b73e6e580b105d0078d768b333a6fa91c385c",
+        "info": "!2892 推进dss的commit点\nMerge pull request !2892 from xiaoxiao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/abcd3e6d1c8b81739cf27cba39744c1af3c67f79",
+        "info": "【patch】调整gs_dump报错问题相关脚本的目录\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fde67e6c8bd7fd274f2813bba0bfdc4fbad7ded2",
+        "info": "change var lastFlushPosition set location\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d913fac4131b466dc104c2603e836c41b436af36",
+        "info": "!2788 函数find_expr_references_walker内判断条件不准确\nMerge pull request !2788 from foolishlee/find_expr_references_walker"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c77d27b515ed0a5d88bf427c6bb457cc36b702a7",
+        "info": "gsql 客户端\\timing 计时开关打开后，显示时间错误\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/13d461869b771c2d2b23789a9f1fa56e7f080ebc",
+        "info": "同时指定no-locale和locale参数时，gs_initdb出现coredump\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ed4d38e6f3f170dc8c883bf4f1a26cdbe4826ba5",
+        "info": "推进dss的commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0613f8eedd2cde18cbf496b6cc9f6e1f758d3032",
+        "info": "!2762 函数instr_stmt_dynamic_change_level内部枚举比较不准确\nMerge pull request !2762 from foolishlee/instr_stmt_dynamic_change_level"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/28fa2ea9d26f5247752d91762c199d59b018885c",
+        "info": "!2882 【bugfixed】解决insert语句右值引用不支持jdbc方式，以及列存在not null约束时默认值与MySQL不一致的问题，修改加入rules用例到fastcheck\nMerge pull request !2882 from laishenghao/rr-bf"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a269bc187916bb83240db51cbc7f66f4aaf7b36f",
+        "info": "!2885 修复dolphin插件在并发场景下会话未调初始化会话级hook的问题\nMerge pull request !2885 from chenxiaobin/fixParall"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ab2770058c319a2c93e7cd077dc2ed997cb4a5af",
+        "info": "issue修复：操作符优先级问题导致特定表达式语法解析失败问题修复\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c81eaed21c05d31b8585285a81c323ff0e3d7ee3",
+        "info": "Fix SWCB core.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4206ad52584c2d6c8c9668aabf637a3ccbb3b8fa",
+        "info": "English spelling error\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9186031f99f141b9c7edbe03a9e5282edf71ba19",
+        "info": "解决insert语句右值引用不支持jdbc方式，以及列存在not null约束时默认值与MySQL不一致的问题，修改加入rules用例到fastcheck\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c46c2b307b41f11809e0409e05985d10043382ca",
+        "info": "!2883 修改dss脚本\nMerge pull request !2883 from xiaoxiao/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e1ab60a33d256699540c3de132e65f9ad6918d7",
+        "info": "修改脚本\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/67ea04610e0b45a828344e9ba31d7660e0d6b875",
+        "info": "修复并发场景下会话未调初始化会话级hook的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1d05bff95543e0677ae7f622322c23fd6f622e03",
+        "info": "!2869 修复开启partial seq scan后Seq Scan算子初始化期间core\nMerge pull request !2869 from 陈栋/bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/78ea45ca1312599f6a3eac43adff77a5c005b445",
+        "info": "修复开启partial seq scan后Seq Scan算子初始化期间core\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bf0506a1eb3e085b431f8bbb6e214ef35e43bf5f",
+        "info": "!2879 回退 'Pull Request !2845 : 【bugfixed】解决insert语句右值引用不支持jdbc方式；以及列存在not null约束时默认值与MySQL不一致的问题'\nMerge pull request !2879 from pengjiong/revert-merge-2845-master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/aa27f6ccc4c53550bd7caedfdba0ea84200aabd7",
+        "info": "回退 'Pull Request !2845 : 【bugfixed】解决insert语句右值引用不支持jdbc方式；以及列存在not null约束时默认值与MySQL不一致的问题'\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/018162771f53194f1add59fb574d66c0a81af171",
+        "info": "!2875 更新版本号至5.0.0\nMerge pull request !2875 from 蒋宏博/5.0.0"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8cec403fac0f6118d94266bdf8605fddba7d60e3",
+        "info": "!2877 更新DMS和DSS commit点，解决cm_res_get_stat并发导致的内存问题\nMerge pull request !2877 from peibaoyi/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5091b95a600906828ac4d97f6e4f82bcaf3a6f6b",
+        "info": "1. 适配cbb/dms/dss cm_res_get_stat接口变更\n2. ss_log_max_file_size参数变更时size单位需要乘上1024\n3. 适配dms_api.h版本号变更\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b17472efe800d8cf4ce7fa60bc13f444190e345e",
+        "info": "PoolManagerCleanConnection中调用pg_usleep空转了500ms\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dcdc9101ab43aa559d82fcd6a946ae78655b155f",
+        "info": "更新版本号至5.0.0\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/39c2d3eeefb9ad38d4ff3110aadb0949c35377f0",
+        "info": "!2845 【bugfixed】解决insert语句右值引用不支持jdbc方式；以及列存在not null约束时默认值与MySQL不一致的问题\nMerge pull request !2845 from laishenghao/rightref-bugfixed"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d23784b4deb2a860882191436097bb37c02f1a49",
+        "info": "reset some variable in AutoVacLauncherMain()\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d94dc712719c15f94a103c8ba6ee8b426d93022f",
+        "info": "!2735 函数calculateThreadMemoryContextStats内判断proc->myProgName != NULL不准确\nMerge pull request !2735 from foolishlee/calculateThreadMemoryContextStats"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7e8e9de6a25b35d94d782658a9f678910f1a97d7",
+        "info": "解决insert语句右值引用不支持jdbc方式；以及列存在not null约束时默认值与MySQL不一致的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7c60335e24a3d5994ae26c1f1c216e8ee2bf6ddd",
+        "info": "添加安全函数返回值检查\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/70d832ed9ff1d881a1c4ebd7e226c4ed235f6171",
+        "info": "fix internal array_col not found bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/214297acef1efacda9f945636554697641065a9d",
+        "info": "添加安全函数返回值检查\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/39a27de267dc19ff35d32f97c9f77308b922d92b",
+        "info": "!2861 修复部分内部线程通过pg_stat相关函数查询不到appname和create time的问题\nMerge pull request !2861 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/08982ec182f377a99d2de29a3e232296b27e59f3",
+        "info": "!2867 修复非B兼容性下，由于未设置yyloc导致使用自定义变量的core问题\nMerge pull request !2867 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fd79300905ac515109d51966b14dbb5fbc132f81",
+        "info": "!2780 on update 处理找不到类型比较函数\nMerge pull request !2780 from 吕辉/on_update_bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8d5b8af09c7bb2627131a6a41f2c93d638904fa5",
+        "info": "增加distinct+orderby支持表达式、未选字段的功能\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8dd624aff8519bdc7c442eb4f520de9e697c94cf",
+        "info": "修复异常场景连接未关闭问题 && 补充测试用例\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/939cdc8855052cd6a7743b93b391364db2379085",
+        "info": "add test case\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c69efe24e4a9301e1a6e0d437ecf6aea129e67c5",
+        "info": "必要时增加hashjoin的bucket数量\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3435e4fc9b8d5ae9da8d7a5dfdc155248da63611",
+        "info": "Fix have not set yyloc when using @var.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2b0c6e18701499998fb3ef49ff3c047d4bb1bd06",
+        "info": "!2849 适配dss支持主备切换\nMerge pull request !2849 from 陈超/glt"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b2b4ee913c961506be3a8dc0ebfc45be966a2752",
+        "info": "补充测试用例\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/81646fb1838f43073b4037f20c651a28a2dcbb83",
+        "info": "修复init_var_from_num中性能瓶颈\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a3f544a28a3add02945dd607a27882796d1588ed",
+        "info": "fix issue I6CG33\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4918e0f7ecc0ceeb1e7932c73250423cb1accafa",
+        "info": "fix on update attribute handle some type could not find a comparison function\nfix typOid error\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/addf3145ff8ece7f739a95dafafc2900a7763707",
+        "info": "Merge branch 'master' of gitee.com:opengauss/openGauss-server into glt\n\nSigned-off-by: 陈超 <1790599142@qq.com>"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7ac947b7c32bb453b3d56f1f654ae0bfb5c4b669",
+        "info": "!2863 【共享存储】更新dms commit点\nMerge pull request !2863 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/14542b84e7c30f6c404ba0236514e7133974964e",
+        "info": "更新dms commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6639c84dcd2301ed25dbf542932b3cddeb761e96",
+        "info": "!2862 【共享存储】更新dms/dss日志路径\nMerge pull request !2862 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4f3505328ff0dceeafd98d5d9c1d1722689a7170",
+        "info": "dss支持主备切换\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e9f29064ddf41ee86e64802e67eeca33512ec508",
+        "info": "更新dms/dss日志路径\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3ba06d69956412671a6d7eb654d62ef4a9e70218",
+        "info": "!2779 函数is_stmt_allowed_in_locked_mode返回代码冗余\nMerge pull request !2779 from foolishlee/is_stmt_allowed_in_locked_mode"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dfe74a36301e6523ea9e46677340bc26cdf96b9c",
+        "info": "!2859 [共享存储]修复failover发生后主机在回放阶段淘汰了从备机要到的需要flush的页面, 导致磁盘上页面漏刷的问题\nMerge pull request !2859 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1d57ca36add365e5f25c1853433a40e4aa6c0c78",
+        "info": "Let internal thread report appname and status.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6ce57b1f107860969bceb698f22d9b764985e39e",
+        "info": "!2860 修复DSS没有debug日志的问题\nMerge pull request !2860 from jihanyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/49dd39997142d24cf24a944d818cc53d25e0ff9a",
+        "info": "!2858 【共享存储】【I6B4IS】避免GROUP_ZERO中的mes worker线程在调用 CBGetTxnStatus陷入死循环\nMerge pull request !2858 from 董宁/dn_fix3_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9ffe8a74d34b9e64792a0b36a83288c686e7083b",
+        "info": "修复DSS没有debug日志的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/053aadfa38b13410bea47269c03b015eda5c8082",
+        "info": "修复failover发生后主机在回放阶段淘汰了从备机要到的需要flush的页面, 导致磁盘上页面漏刷的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ed3d27a228d80d13332efeaef5652f4117d9190a",
+        "info": "[共享存储] forbid mes_task_proc looping infinitely\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a0498a57018c61155d3f8b09b261a5d3fc924ee7",
+        "info": "!2781 函数SPI_get_top_transaction_id针对ENABLE_MULTIPLE_NODES流程判断冗余\nMerge pull request !2781 from foolishlee/SPI_get_top_transaction_id"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a9c3b8aaad4b7a4564608524dba2d07543a024e9",
+        "info": "!2772 变量versionControl和licenseControl中结构体数组字段赋值不准确\nMerge pull request !2772 from foolishlee/LicenseControl"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/266a7c0f238fc263d3aa4c543c307c24c46facfb",
+        "info": "!2770 函数has_shippable_col_for_insert内最后退出代码冗余\nMerge pull request !2770 from foolishlee/has_shippable_col_for_insert"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/83c42e025c8f4ecddb31ce6ddf8532e0df731cba",
+        "info": "!2769 函数JoinPathGenBase::streamSidePath内最后return NULL为冗余代码\nMerge pull request !2769 from foolishlee/streamSidePath"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8e889c3580ca928b56603a3e0f1ee613eb3c37a3",
+        "info": "!2768 函数create_paritial_push_plan内返回代码冗余\nMerge pull request !2768 from foolishlee/create_paritial_push_plan"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cc567d77f86760d5677b463bf51bc8f4a6b82aa4",
+        "info": "!2749 函数ProcedureCreate内判断parameterTypes为空代码不准确\nMerge pull request !2749 from foolishlee/ProcedureCreate_Datum"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1d369d673decd16c97f1f11e8921979e1b62fa0c",
+        "info": "!2750 函数get_random_job_id内部判断job_max_number范围不准确会导致后续异常\nMerge pull request !2750 from foolishlee/get_random_job_id"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e88d61db7289a3cfa049b5055b0a8f94634defd1",
+        "info": "!2856 rename table特性bug修复 \nMerge pull request !2856 from 吕辉/rename_bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0248a0915da2dcee234f9c90890ccd9a31aa757e",
+        "info": "add rename table test case\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/38fbc348e9aae0cdcc4a974abcdbd70ce905bef6",
+        "info": "fix issue I6BXUY\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/acb6439192502df05bd8a84b47714772e572fe01",
+        "info": "!2853 【共享存储】dms/dss 日志路径添加nodename\nMerge pull request !2853 from 陈婷婷/dms_log"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a49fe4231061ca7678eaa418e145936c18d54c49",
+        "info": "!2854 【共享存储】删除参数ss_enable_log_level\nMerge pull request !2854 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/57d53542c589f481a69823f4066af1949b5c4497",
+        "info": "!2855 [共享存储]修复在DMS在 PageCheckIfCanEliminate 中问题\nMerge pull request !2855 from 董宁/dn_fix4_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d910ee9d7d4299a85ab3b23d3226bc7a0c089cfe",
+        "info": "[共享存储] add page accessible check & fix PageCheckIfCanEliminate problem in dms\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4b01d2fcdd306d661170ba495832092c7b751eb2",
+        "info": "【共享存储】dms/dss 日志路径添加nodename\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/03439a28ed4355c0d9ef40bac5333d9037d0c109",
+        "info": "【共享存储】 删除参数ss_enable_log_level\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/017c9329f8fa075ce28b82c44e8961202e3842c3",
+        "info": "!2847 【共享存储】Failover GetXlogBuffer crash修复, reset wal buffer仅在startup线程拉起时执行一次, 否则无法正确推进redo LSN\nMerge pull request !2847 from 刘博文/1dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/1276c3af8748c68ac04611579abb0c6a9ae7430d",
+        "info": "!2835 解决pg、b兼容模式下中文字符串显式转换宕机问题\nMerge pull request !2835 from 李秦朗/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/57ed20e0c79000f744bf1ee52982921e0b9bae9c",
+        "info": "提升numeric除法性能\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/db19171daf28db5c4bf49847d76a83c0e8c6c0bd",
+        "info": "support order siblings by in cte base table\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6d4cfc8074cb9ec3f1182bfd95acbcaf5e2071c4",
+        "info": "!2846 [Bugfix] 修复在standbywrite开启线程池时提示备机连接主机失败的问题\nMerge pull request !2846 from 周斌/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/4a46a8b01fd4fbbc2d5073352fe91e57e93325c5",
+        "info": "!2833 修复synonym命名冲突但仍然允许通过的问题\nMerge pull request !2833 from Cross-罗/synonym_bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/85b82c5d6371e55e37cf83e89cf447f3118cadba",
+        "info": "!2834 修改issue: pg_resetxlog执行失败报错提示不合理\nMerge pull request !2834 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a8bace43ed88a8c09b8b1ed14d00540a4ced7352",
+        "info": "fix failover getxlogbuffer\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fd1efa9d41c2ea47a8b50fe88f10d1285f92ceaf",
+        "info": "修改issue: pg_resetxlog执行失败报错提示不合理\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a166122e2afd2565269f7eb8b5f94acf5f2a0421",
+        "info": "!2763 函数isSameArgList内sprintf_s调用参数类型不正确\nMerge pull request !2763 from foolishlee/isSameArgList"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ae9161f30b704844bf167ee85e508770c43f4242",
+        "info": "!2837 修复simpleInstall安装数据库端口占用判断错误问题\nMerge pull request !2837 from 蒋宏博/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6a8b2088317f32925731c5277c35f982ef9b274e",
+        "info": "!2841 【共享存储】拦截非NORMAL STANDBY下的Switchover指令\nMerge pull request !2841 from 刘博文/1dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/48193b6c3966d7c0630273e54c51e1423e4b28ff",
+        "info": "[libpqsw]repair invalid username when enable thread pool\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5aa5ef94063ea95d0be97fae535dc2a40d3b3f9a",
+        "info": "fix switchover trigger\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6e4d1695c3a9d88fd1478fcb9dd12f1750d2fe24",
+        "info": "取消strcpy_s返回值检查\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5e89b830ea7a437d627990530598d19f10216dd3",
+        "info": "及时释放NameListToString内分配的内存\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/8151036ef1ba7ef8942a85ef6dd3207c7cbe7a4f",
+        "info": "修复极简安装端口占用判断错误问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5371d0d06b14d31b44f5c203fca05546fa004e56",
+        "info": "modify gs_probackup it will feedback wal lsn to master after write to wal file\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/95a55bfd2b13bc060071b219efd9a283dd2a77c9",
+        "info": "!2761 DRC validate\nMerge pull request !2761 from 刘博文/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bce67e398164e40848c43d56cafc5ea92c7043c4",
+        "info": "修复synonym允许冲突的问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d1a82a168cb7fa450b3a8d698b15f8fc7b556674",
+        "info": "解决pg、b兼容模式中文字符串转换问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b2a5d20e8bc8195c9271b2115b0040c0b7c3b433",
+        "info": "!2827 创建行存压缩表，对表并发执行insert/update/delete/vacuum/analyze/vacuum full等操作，频繁出现报错ERROR: Failed to CfsWritePage base/16384/34396_compress\nMerge pull request !2827 from 吴岳川/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/903ad228810bb609a1938ccaa6ecdc7800bbbc52",
+        "info": "!2830 [共享存储]fix bug about xlog not recycling\nMerge pull request !2830 from zhengxue/master_dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b6c9289c28983c4db1018fc4fdb29a14fab2a296",
+        "info": "!2832 轻量版适配openEuler 2203 LTS\nMerge pull request !2832 from 蒋宏博/oel2203"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/952316ac44990bb2cf93f195fae745b85e3b0b90",
+        "info": "轻量版适配openEuler 22.03 LTS\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a06722de46fc3b8e119c7c53a1369abcdcd40ab1",
+        "info": "[共享存储]fix bug xlog not recycling\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b5ad4c2b99500d4b4a6b1f6bd2a234ca11fccd04",
+        "info": "!2764 函数ProcedureCreate内paramModes相关代码修正\nMerge pull request !2764 from foolishlee/ProcedureCreate_paramModes"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c63fa868a49694a2f44c03bb00dd1c466c8fdf6b",
+        "info": "!2755 函数ClearYylval的修饰关键字inline应放在返回类型前\nMerge pull request !2755 from foolishlee/ClearYylval"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a594de56a2c59c0540345a18254302d1b15334ff",
+        "info": "!2752 函数IsInSameTransaction的修饰关键字inline应放在返回类型前\nMerge pull request !2752 from foolishlee/IsInSameTransaction"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2c420738c87479a1f291da3a0da4c1dcc39c0dba",
+        "info": "!2757 函数estimate_cstore_blocks内部变量total_pages判断条件不准确\nMerge pull request !2757 from foolishlee/estimate_cstore_blocks"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a504ddfca45da605086ff001487bde88ffcf20ef",
+        "info": "!2758 函数estimatePartitionSize内部变量curpages判断条件不准确\nMerge pull request !2758 from foolishlee/estimatePartitionSize"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2fb6d4321e3ae1193fc79f66e40dd644335ed51a",
+        "info": "!2765 函数base64_decode内变量inlen判断条件不准确\nMerge pull request !2765 from foolishlee/base64_decode"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/205274dc7a522dc165e438b067c16a90e9154feb",
+        "info": "!2785 函数MakeDefaultSubpartition返回值代码冗余\nMerge pull request !2785 from foolishlee/MakeDefaultSubpartition"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/aac1c3b0c0900780fdd88a0f4809f31847188c95",
+        "info": "!2826 【共享存储】分布式锁部分场景bugfix\nMerge pull request !2826 from 陈栋/bugfix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2e319d7c34cd79142d28d9715be9d1def6f7d3e3",
+        "info": "!2828 【共享存储】doublewrite多次初始化导致校验crash\nMerge pull request !2828 from 刘博文/1dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b379970732c96a5c53ccaeec0ae42dfa945f558e",
+        "info": "分布式锁部分场景bugfix\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/de3891c54e0dd62fd102c821abcaf8414efbe54a",
+        "info": "!2815 解决protocol_config未初始化引发的空指针问题\nMerge pull request !2815 from 陈栋/bugfix2"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/5ef3bc90a37c0f1df42fb56cdf865f7e341927e6",
+        "info": "1\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0c6d9a88a9beee45ddba68c91c595ecb62dd04d9",
+        "info": "drc validate\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c5aa3fa255a188192d8292e10cee78869937216e",
+        "info": "!2806 【轻量级PR】修改alter subpartition的value为语法必选项\nMerge pull request !2806 from 李秦朗/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/396d15ee5a61dce82f3a39f48452c427676430b8",
+        "info": "skip report error when fork was removed\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/37177fdf6210b5e6be9c6f7923b17a3ee89074ee",
+        "info": "解决protocol_config未初始化引发的空指针问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9036e64955da6e19f531104e6c4946e05957bc0d",
+        "info": "!2707 修改issue：保证在备机执行pg_resetxlog工具合理报错\nMerge pull request !2707 from zhaobingyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/aaff16b088bb935b7928c2f989da2e54d07592a5",
+        "info": "!2813 【共享存储】【DTS2023010305621】共享存储对于双写部分调整\nMerge pull request !2813 from 董宁/ss_fix6_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e2c37735de93af836aa431409a35d77631a313a8",
+        "info": "修改issue: 保证在备机执行pg_resetxlog工具合理报错\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/be1ac1dee9f22348ac697ad09861c4b253f1c3c0",
+        "info": "!2820 设置wdr_snapshot_interval生成快照时间间隔未立即生效\nMerge pull request !2820 from 陈志凯/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bd74fed4345de7f013a6b0a83e84bdb0f0829aae",
+        "info": "合并pg pr:集中逻辑保护复制的效用语句\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b658f54c31e093cf302a020481162a10f95dfde1",
+        "info": "!2818 修改issue: gs_probackup恢复后数据丢失\nMerge pull request !2818 from zhaobingyu/gs_probackup"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/cbb5b4fe370c1a6ff0af567df974c3187234ac41",
+        "info": "执行器优化，改为函数指针的方式，不访问全局数组\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/6a29713e6d3a01e83db180d06627c2769b4a1d1f",
+        "info": "修改issue: gs_probackup恢复后数据丢失\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ee1e3b25fe03450a4ad60932253beaacaefd0466",
+        "info": "设置wdr_snapshot_interval生成快照时间间隔未立即生效\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/98cbf84e7f6ef8f27fc40c717ff89644972250cb",
+        "info": "!2810 修复创建函数给参数指定参数模式为INOUT并且指定默认值报错的bug\nMerge pull request !2810 from Cross-罗/inout_fix"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/30b4e5c2532a6fe45df1934209e815842279f14a",
+        "info": "!2816 【共享存储】基于cm模拟文件的HA测试框架以及各个场景用例\nMerge pull request !2816 from 董宁/dn_fix1"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/0b8e1fcf824785e3a3705f0ed818989a326e6443",
+        "info": "!2812 修复CTE+子查询场景下，CTE重复处理导致找不到CTE pathlist的问题\nMerge pull request !2812 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d465c8fecfd92a5bbc27dd08e85ad9a1ab53be26",
+        "info": "[共享存储] 基于cm模拟文件的HA场景用例\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ded16a65b4f314294a612df0ea05129a9ac5d8d4",
+        "info": "[共享存储] dw adapt shared_storage\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2313bec17e6452d33cdc0d6a83c555ae33807a3c",
+        "info": "Fix cte with subquery failed.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/eee21b1180c50f95fe442c1805c23ae847f46f15",
+        "info": "!2811 【共享存储】【bugfix】【DTS2022120508091】failover出现backend无法退掉，30s后直接重启\nMerge pull request !2811 from 董宁/ss_fix5_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/f984b85ce642ee9867d6e996f1b0733dda6ef0df",
+        "info": "[共享存储] failover: restart when backend exit failed\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/dc671f1cea58adcdb9634a98af38f58a2bf9e7a7",
+        "info": "!2700 修复：psql 和B模式的delimiter 冲突的问题\nMerge pull request !2700 from chenbd/bug_fix_delimiter"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/50ed45f28098ee06ad5ccfe9b56614ebf67f0395",
+        "info": "!2807 【共享存储】修复invalid shared copy和获取页面并发时, 当IO未完成时, invalid可能导致页面实际为失效\nMerge pull request !2807 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e130660c6a3d81567a243225d44536f8aeda8365",
+        "info": "修复INOUT不能设置默认值的bug\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b5dc67ccdb5ef2ca26fee5b8cbb34005202781e1",
+        "info": "!2808 【共享存储】解决failover过程中RecoveryInProgress不符合预期\nMerge pull request !2808 from 董宁/ss_fix3_up"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/500d43fd7a9a05dbb51e15cb105effa43ad714fd",
+        "info": "[共享存储] failed to judge RecoveryInProgress in failover\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/66c2ca3481ed4ec48a4e27c69fb427efbfba2b27",
+        "info": "修复invalid shared copy和获取页面并发时, 当IO未完成时, invalid可能导致页面实际为失效\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a80de88a0fd4eebfc0f81d4c9accb8b0ec822422",
+        "info": "\\h修改alter subpartition的VALUES为语法必选项\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/fc359a7d90857cf941c66116f9f4f320f1e24254",
+        "info": "!2802 多个函数存在变量比较不准确问题\nMerge pull request !2802 from foolishlee/unsigned"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2e4f56c4221f88def2619063d1504c0e5d47ce90",
+        "info": "!2803 [共享存储] dms_api.h文件适配修改\nMerge pull request !2803 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/b80bcf9eb5daa7161144438874a335b357e0171f",
+        "info": "!2782 修改适配GSC开启后备机对全局失效消息的处理\nMerge pull request !2782 from cchen676/1207master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/713da47bf54b8fca4bffbc7d7edfb62b7730759d",
+        "info": "【共享存储】 适配dms头文件修改\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2e760ad0ee2726fb1c26cbfdf75adfcad6d11277",
+        "info": "!2774 添加List分区的partitionmap排序\nMerge pull request !2774 from chenxiaobin/addListSort"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/bec5136b6a431aa57e8cf7a076d2e3dab7b882d5",
+        "info": "!2783 issue修复：ignore在向主键列插入null时资源泄漏修复\nMerge pull request !2783 from zhangzhixian/pg_ctl_revise"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d6b75f5fc6a7f30adfdf3ee7d6792ab9528b608c",
+        "info": "多个函数存在变量比较不准确问题\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9cc27bc424a23429356e72d739f4e8538709f9bd",
+        "info": "!2798 共享存储模式pg_controldata工具只打印有效页和最后一页\nMerge pull request !2798 from zhaobingyu/pg_controldata"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/7946661d3172a74c8f231a6574257a845040f255",
+        "info": "修改适配GSC开启后备机对全局失效消息的处理\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9e6b14bd1c8269100b51e277a1a3d53670ff1829",
+        "info": "issue修复：ignore在向主键列插入null时资源泄漏修复\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/93677e4261b79dd72ae9f9fe54169ea64b797963",
+        "info": "add listmap sort\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/d2cbd2bfc0532661596de51d0da816bd422b8aa4",
+        "info": "!2801 更新DMS/DSS commit点\nMerge pull request !2801 from 陈婷婷/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9203452e00b353ae0bf0ae6fe1d3ba3217dcb658",
+        "info": "更新DMS/DSS commit点\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/2458165e05c0d560103f2fac7d743bd28187aff5",
+        "info": "!2796 1. fix DSS logger timer proc deadlock bug 2. fix switchover hang after reform has failed\nMerge pull request !2796 from 刘博文/1dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/272de26f632b8fdaeeef9dea7a189c759a83356b",
+        "info": "共享存储模式pg_controldata工具只打印有效页和最后一页\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/e213cad3208a16e821cdaccd3db8724d457f892c",
+        "info": "!2799 gs_initdb增加--dms_url的help说明\nMerge pull request !2799 from zhaobingyu/gs_initdb"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9889e4edec1e1d4e1aedc1fe2dd8630744cede08",
+        "info": "共享存储模式增加gs_initdb的--dms_url帮助说明\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/22ec06468af8bedadc00dbe2911b1851349bd820",
+        "info": "fix init logger causing libc deadlocks\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/3ffa07e9879790b2780d1a24c584a3959615c581",
+        "info": "!2793 支持openEuler 22.03 LTS系统\nMerge pull request !2793 from 蒋宏博/oel2203"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/540298301c60eeb0d8157dc9664ed074d8443281",
+        "info": "!2790 DSS/DMS日志独立\nMerge pull request !2790 from jihanyu/master"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/187ef591d7385354e0a2c6137c895eeb7dba3a77",
+        "info": "!2794 fix bug upgrade about hdfs_fdw\nMerge pull request !2794 from zhengxue/master_dev"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/826bddb3a67537c97e4a778619f89a557e28dfc8",
+        "info": "DMS/DSS日志独立\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/9e9a30ae7a129fa525ed963c98008163ee03e520",
+        "info": "!2789 修复alter role的core问题\nMerge pull request !2789 from pengjiong/fix_date"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/c8913da1e5a7e5f008b56fabe0c172b48b2b09e9",
+        "info": "!2791 修复plpgsql_parse_wordtype函数未判空问题\nMerge pull request !2791 from pengjiong/fix_col"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/a3e2f50179040166b4068b5a8576e56d0a1df6a8",
+        "info": "fix bug upgrade about hdfs_fdw\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/151f38670ced9f8c441226fc6ba6a912a9aacde3",
+        "info": "Fix package core.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/ee129725243454ff6e3283bec7c7c79c51feb8a8",
+        "info": "支持openEuler 2203 LTS系统\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/353ed2248a33e2c9b623ec367743590b67b032cc",
+        "info": "Fix alter role core.\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/276c86eebc3cca1c476da2c8fcee440afd5db914",
+        "info": "函数find_expr_references_walker内判断条件不准确\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/273bab793d988ea514b1334c91b65289d9da817a",
+        "info": "函数MakeDefaultSubpartition返回值代码冗余\n"
+    },
+    {
+        "url": "https://gitee.com/opengauss/openGauss-server/commit/492a17d205a6a725d4939932463721639f46418e",
+        "info": "函数WLMAdjustCGroup4EachThreadOnDN内比较不准确\n"
+    }
+]
