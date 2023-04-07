@@ -2,8 +2,8 @@
 Author: Mrx
 Date: 2023-03-30 10:03:58
 LastEditors: Mrx
-LastEditTime: 2023-04-06 16:31:52
-FilePath: \crawler\commitinfo.py
+LastEditTime: 2023-04-06 16:26:44
+FilePath: \crawler\a.py
 Description: 
 
 Copyright (c) 2023 by Mrx, All Rights Reserved. 
@@ -29,13 +29,12 @@ def get_commit_info(page):
         # if commit['commit_type_detail']['ident'] in ['bug','task']:
         if True:
             new_commit={}
-            # new_commit['title']=commit['title']
-            # new_commit['body']=commit['body']
+            info = commit['commit']['message']  
+            info = info.replace('\n', ' ')
+            info = info.replace('Merge pull request ', ' ')
             new_commit['url'] = commit['html_url']
-            new_commit['info'] = commit['commit']['message'].replace('\n', '').replace('Merge pull request ', ' ')  
-            # new_commit['number']=commit['number']
-            # new_commit['state']=commit['state']
-            # new_commit['type']=commit['commit_type_detail']['ident']
+            # new_commit['info'] = commit['commit']['message']  
+            new_commit['info'] = info
             commit_list.append(new_commit)
     return commit_list
 

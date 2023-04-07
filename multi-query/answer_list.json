@@ -1,0 +1,14 @@
+[
+    "Q:!3312 解决逻辑复制相关问题 !3312 from Zelin_Zheng/master",
+    "A:Not sure.",
+    "Q:!3305 增加dblink自动化测试 !3305 from 陈志凯/master",
+    "A:Not sure. The commit information provided does not give any clear indication of whether it is a vulnerability patch or not. It appears to be adding automated testing for a feature called \"dblink.\" Further information would be needed to determine if this commit addressed a security vulnerability.",
+    "Q:!3302 修改openGauss master分支readme中三方库路径 !3302 from liuheng/master",
+    "A:Not sure. The commit message does not provide sufficient information to determine if it is a vulnerability patch.",
+    "Q:fix logical decoding bugs",
+    "A:Yes.",
+    "Q:修改openGauss master分支readme中三方库路径",
+    "A:No. This commit message is simply updating the path to a third-party library in the readme file of the openGauss master branch, and does not appear to be a patch for a known vulnerability.",
+    "Q:check_dblink_odbc",
+    "A:No."
+]

@@ -1,0 +1,8 @@
+[
+    "!3312 解决逻辑复制相关问题 !3312 from Zelin_Zheng/master",
+    "!3305 增加dblink自动化测试 !3305 from 陈志凯/master",
+    "!3302 修改openGauss master分支readme中三方库路径 !3302 from liuheng/master",
+    "fix logical decoding bugs",
+    "修改openGauss master分支readme中三方库路径",
+    "check_dblink_odbc"
+]
